@@ -2,8 +2,6 @@ site_name: Belsberg Sales Playbook
 
 theme:
   name: material
-  # custom_dir is alleen nodig als je echt iets in /overrides gebruikt (zie uitleg hieronder)
-  custom_dir: overrides
   features:
     - toc.integrate
 
