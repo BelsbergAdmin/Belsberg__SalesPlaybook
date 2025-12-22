@@ -8,7 +8,7 @@ opdracht succesvol te kunnen vervullen. Het gaat verder dan alleen
 functie-eisen - je exploreert de business context, team dynamiek en
 succescriteria om de beste match te garanderen.
 
-**Waarom is grondige Job Intake cruciaal voor plaatsingsucces?**
+**Waarom is een grondige Job Intake cruciaal voor plaatsingsucces?**
 
 - **Precisie**: Duidelijke requirements leiden tot betere kandidaat
   matching
@@ -23,7 +23,7 @@ succescriteria om de beste match te garanderen.
 - **Prioritering**: Bepaalt sourcing intensiteit voor optimale resource
   toewijzing via invulbaarheidsanalyse
 
-**Hoe voer je een strategische Job Intake uit?** Via een 9-stappen
+**Hoe voer je een strategische job intake uit?** Via een 9-stappen
 proces waarbij je tijdens en na het gesprek de invulbaarheid beoordeelt
 aan de hand van de **8 Criteria van Invulbaarheid** (zie **Addendum
 B**). Deze interne checklist helpt je de prioriteit en sourcing
@@ -31,9 +31,9 @@ intensiteit te bepalen.
 
 ## **1. Voorbereiding**
 
-**Pre-Intake Setup (5 minuten):**
+**Pre-Intake setup (5 minuten):**
 
-**Klant Context Review (2 minuten)**
+**Klant context review (2 minuten)**
 
 - Eerdere samenwerking geschiedenis met Belsberg
 
@@ -41,7 +41,7 @@ intensiteit te bepalen.
 
 - Recente business ontwikkelingen relevant voor deze rol
 
-**Marktinzicht Voorbereiding (2 minuten)**
+**Marktinzicht voorbereiding (2 minuten)**
 
 - Huidige marktomstandigheden voor dit type rol
 
@@ -49,7 +49,7 @@ intensiteit te bepalen.
 
 - Talent beschikbaarheid en concurrentie landschap
 
-**Interview Setup (1 minuut)**
+**Interview setup (1 minuut)**
 
 - Notitiesysteem gereed voor uitgebreide notities
 

@@ -141,9 +141,9 @@ opdracht te scoren:
 
     - Hoe efficiënt en realistisch is hun wervingsproces?
 
-    - Score 5: 1-2 gesprekken, snelle feedback, 2-3 weken totaal
+    - Score 5: 1-2 gesprekken, snelle feedback, 1-2 weken totaal
 
-    - Score 1: 4+ gesprekken, lange besluitvorming, onduidelijke stappen
+    - Score 1: 2+ gesprekken, lange besluitvorming, onduidelijke stappen
 
 5.  **Aantrekkelijkheid van de Positie** (1-5 punten)
 
@@ -300,7 +300,7 @@ Beoordeelt of de kandidaat "JA" zal zeggen bij een aanbod.
 **Score 3**: Gematigde interesse, enkele voorwaarden onderhandelbaar
 **Score 1**: Lage motivatie, significant mismatch in verwachtingen
 
-**S - STARTS (Start de Baan) - 20% weging**
+**S - STARTS (Start de baan) - 20% weging**
 
 Beoordeelt of de kandidaat daadwerkelijk zal beginnen als alles akkoord
 is.
@@ -310,7 +310,7 @@ is.
 - **Beschikbaarheid**: Hoe snel kan de kandidaat starten? Opzegtermijn?
 
 - **Concurrentie**: Hoeveel andere trajecten lopen er? Wat is hun
-  status?
+  status? (nieuwe opdracht, verlenging, interne nieuwe opdracht)
 
 - **Commitment**: Hoe toegewijd is de kandidaat aan het vinden van een
   nieuwe rol?
@@ -330,13 +330,13 @@ is.
 **Score 3**: Redelijke beschikbaarheid, enkele concurrerende opties
 **Score 1**: Lange opzegtermijn, veel concurrentie, lage commitment
 
-**S - STAYS (Blijft in de Baan) - 10% weging**
+**S - STAYS (Blijft in de baan) - 10% weging**
 
 Beoordeelt of de kandidaat de volledige contractduur zal blijven.
 
 *Focus gebieden:*
 
-- **Lange Termijn Match**: Passen carrièredoelen bij deze opdracht?
+- **Lange termijn match**: Passen carrièredoelen bij deze opdracht?
 
 - **Stabiliteit**: Wat is het track record qua opdracht/baan duur?
 
@@ -365,9 +365,7 @@ G-score (x 0.40) + A-score (x 0.30) + S-score (x 0.20) + S-score (x
 
   - Eerste kandidaat voor presentatie
 
-  - Premium positioning en CV optimalisatie
-
-  - Intensieve interview coaching
+  - Intensief contact  
 
   - Priority scheduling bij klant
 
@@ -375,13 +373,13 @@ G-score (x 0.40) + A-score (x 0.30) + S-score (x 0.20) + S-score (x
 
   - Sterke kandidaat voor presentatie
 
-  - Standaard voorbereiding
+  - Intensief contact 
 
-  - Reguliere process management
+  - Reguliere scheduling bij klant 
 
 - **2.5-3.4: BORDERLINE CANDIDATE** ⚠️
 
-  - Alleen presenteren bij gebrek aan sterke alternatieven
+  - Alleen presenteren bij gebrek aan sterke alternatieven, of als vergelijking
 
   - Extra coaching nodig
 
@@ -393,7 +391,6 @@ G-score (x 0.40) + A-score (x 0.30) + S-score (x 0.20) + S-score (x
 
   - Mogelijk andere rollen of toekomst
 
-  - Focus op referrals
 
 **Acties na GASS Scoring:**
 
@@ -435,7 +432,7 @@ weten dat de kandidaat serieus is.
 
 1.  **"Waarom wil je vertrekken bij je huidige werkgever/opdracht?"**
 
-    - *Doel:* Begrijpen van de motivatie en ernst van de wens om te
+    - *Doel:* Begrijpen van de motivatie en intentie van de wens om te
       bewegen
 
     - *Rode vlag:* Vage antwoorden, geen concrete redenen, impulsief
@@ -667,7 +664,7 @@ vast in Bullhorn.
 
 **Don'ts:**
 
-- ❌ Stel risking vragen niet als verhoor - blijf conversational
+- ❌ Stel risking vragen niet als verhoor - blijf converseren obv vertrouwen en interesse
 
 - ❌ Negeer rode vlaggen niet omdat je de plaatsing wilt forceren
 
@@ -760,7 +757,7 @@ vast in Bullhorn.
 
 2.  **Risicoanalyse & Actie:**
 
-    - 🟢 Groen: Geen rode vlaggen - proceed normaal
+    - 🟢 Groen: Geen rode vlaggen - proceed 
 
     - 🟡 Geel: Enkele concerns - addresseer proactief
 

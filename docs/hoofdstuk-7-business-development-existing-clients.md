@@ -50,7 +50,7 @@ expansion planning die alle mogelijke touchpoints in kaart brengt.
 
 - Budget owners voor verschillende business units
 
-- Potentiële champions die introducties kunnen maken
+- Potentiële ambassadeurs die introducties kunnen maken
 
 **Business Intelligence Update (5 minuten)**
 
@@ -167,7 +167,7 @@ schetsen hoe een strategische partnership eruit zou kunnen zien..."
 - "Kunnen we een gezamenlijke presentatie geven aan het management
   team?"
 
-- "Wat heb je nodig om dit intern te championen?"
+- "Wat heb je nodig om dit intern te onderbouwen / draagvlak voor te creeren?"
 
 **Concrete Acties:**
 
@@ -183,7 +183,7 @@ schetsen hoe een strategische partnership eruit zou kunnen zien..."
 
 **Warme Introducties (binnen 48 uur):**
 
-- Email introductie met bestaande contact als champion
+- Email introductie met bestaande contact als ambassadeur
 
 - Referentie naar succesvolle samenwerking
 
@@ -191,7 +191,7 @@ schetsen hoe een strategische partnership eruit zou kunnen zien..."
 
 **Multi-Stakeholder Meetings:**
 
-- Gezamenlijke presentaties met champion
+- Gezamenlijke presentaties met ambassadeur
 
 - Cross-departmental use cases presenteren
 
