@@ -173,6 +173,8 @@ Kandidaten)*
 
 - "Hoe ziet jullie interview proces eruit?"
 
+- "Wat is de structuur en wat zal er besproken worden?" 
+
 **Timeline & Urgentie:**
 
 - "Wanneer willen jullie kandidaten zien?"

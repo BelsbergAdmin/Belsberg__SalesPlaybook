@@ -5,9 +5,9 @@
 **Wat is uitgebreide Interview Prep?** Een dubbel-zijdig
 voorbereidingsproces waarbij je zowel kandidaat als klant optimaliseert
 voor het interview. Voor kandidaten: coaching op content, presentatie en
-mindset. Voor klanten: verwachtingen beheer, proces optimalisatie en
+mindset. Voor klanten: verwachtingensmanagement, proces optimalisatie en
 afstemming op evaluatie criteria. Je rol is niet passief coördineren -
-je bent actieve succes facilitator.
+je bent een actieve succes facilitator.
 
 **Waarom is grondige Interview Prep cruciaal voor plaatsingsucces?**
 
@@ -27,17 +27,18 @@ je bent actieve succes facilitator.
   tijdens gesprek
 
 **Hoe bereid je beide partijen optimaal voor?** Via een **3-fase
-aanpak**: Kandidaat coaching (10min), klant verwachtingen beheer (5 min)
+aanpak**: Kandidaat coaching (10min), klant verwachtingensmanagement (5 min)
 en consultant monitoring rol tijdens interview dag.
 
 ## **1. Voorbereiding**
 
 **Pre-Interview Intelligence Verzameling:**
 
-**Interview Logistiek Bevestigd:** ✅ Datum, tijd, locatie/platform
-details vastgelegd ✅ Gesprekspartners geïdentificeerd: namen, rollen,
-achtergrond ✅ Interview format: 1-op-1, panel, presentatie, technische
-test ✅ Duur en agenda indien beschikbaar
+**Interview Logistiek Bevestigd:**
+- Datum, tijd, locatie/platform details vastgelegd
+- Gesprekspartners geïdentificeerd: namen, rollen, achtergrond
+- Interview format: 1-op-1, panel, presentatie, technische test
+- Duur en agenda indien beschikbaar
 
 **Stakeholder Profielen:**
 
@@ -55,7 +56,7 @@ test ✅ Duur en agenda indien beschikbaar
 
 - Andere kandidaten in pipeline (timing/concurrentie druk)
 
-- Specifieke zorgen of vereisten van Klant kant
+- Specifieke zorgen of vereisten van klant kant
 
 - Budget goedkeuring status en commerciële tijdlijn
 
@@ -105,19 +106,19 @@ E32-E36**:
 
 **Kernprincipes:**
 
-- **Spiegelingstechniek**: "Let op hoe je gesprekspartner communiceert;
-  neem hun tempo en communicatiestijl over."
+- **Read the room**: "Let op hoe je gesprekspartner communiceert;
+  ben zowel actief als passief betrokken."
 
-- **Eigenaarschap Benadrukken**: "Dit is jullie gesprek samen. Zorg dat
+- **Eigenaarschap benadrukken**: "Dit is jullie gesprek samen. Zorg dat
   je meebeweegt, maar weet zelf ook wat jij wilt ophalen."
 
-- **Memorabel Positioning**: "Heb voor jezelf helder: welke 2-3 punten
+- **Memorabele positionering**: "Heb voor jezelf helder: welke 2-3 punten
   moeten ze absoluut onthouden over jou?"
 
 - **STAR-voorbeelden voorbereiden**: Situatie, Taak, Actie, Resultaat
   format
 
-**Gunfactor Coaching:**
+**Gunfactor coaching:**
 
 Mensen kopen van mensen. Zorg dat je:
 
@@ -131,35 +132,29 @@ Mensen kopen van mensen. Zorg dat je:
 
 5.  **Complimenten geeft** waar oprecht en relevant
 
-**FASE 2: Klant Verwachtingen Beheer (10 minuten)**
+**FASE 2: Klant verwachtingsmanagement (10 minuten)**
 
-**Interview Doeltreffendheid Optimalisatie:**
+**Interview doeltreffendheid optimalisatie:**
 
-**Agenda Afstemming:** "Voor het gesprek morgen: hebben jullie een vaste
-structuur of zal ik kort de hoofdpunten aangeven waar \[kandidaat\]
-sterk in is?"
+**Evaluatie criteria verduidelijking:** "Voor het gesprek morgen: waar gaan jullie specifieke op letten?"
 
-**Evaluatie Criteria Verduidelijking:** "Na afloop: zijn er specifieke
-punten waar jullie vooral op letten? Dan kan ik jullie feedback hierop
-rijk en specifiek houden."
-
-**Tijdlijn Verwachtingen:** "Timing: wanneer kunnen we feedback
+**Tijdlijn verwachtingen:** "Timing: wanneer kunnen we feedback
 verwachten en wat zijn jullie vervolgstappen als \[kandidaat\] een goede
 match is?"
 
-**FASE 3: Interview Day Support**
+**FASE 3: Interview day support**
 
-**Dag-Van Uitvoering (interview dag):**
+**Dag van uitvoering (interview dag):**
 
-**Kandidaat Check-in (2 uur voor gesprek):** "Laatste check voor
+**Kandidaat check-in (2 uur voor gesprek):** "Laatste check voor
 vanmiddag: heb je nog vragen? Succes en denk eraan - ze hebben je al
 interessant genoeg gevonden voor een gesprek!"
 
-**Klant Herinnering (1 uur voor gesprek):** "Interview met \[kandidaat\]
+**Klant herinnering (1 uur voor gesprek):** "Interview met \[kandidaat\]
 staat vandaag om \[tijd\]. Als er last-minute wijzigingen zijn, laat het
 me weten dan informeer ik \[kandidaat\] direct."
 
-**Beschikbaarheid Tijdens Interview:**
+**Beschikbaarheid tijdens interview:**
 
 - Telefoon beschikbaar voor crisis beheer
 
@@ -169,9 +164,9 @@ me weten dan informeer ik \[kandidaat\] direct."
 
 ## **3. Opvolging**
 
-**Post-Interview Uitvoering Protocol:**
+**Post-Interview uitvoering protocol:**
 
-**Kandidaat Debrief (binnen 2 uur na interview):**
+**Kandidaat debrief (binnen 2 uur na interview):**
 
 - Zie **Hoofdstuk 13** voor complete debrief proces
 
@@ -179,7 +174,7 @@ me weten dan informeer ik \[kandidaat\] direct."
 
 - Verzamel inzicht over andere interview processen
 
-**Klant Feedback Loop (binnen 4 uur na interview):**
+**Klant feedback loop (binnen 4 uur na interview):**
 
 - Zie **Hoofdstuk 13** voor complete debrief proces
 
@@ -187,7 +182,7 @@ me weten dan informeer ik \[kandidaat\] direct."
 
 - Adresseer eventuele zorgen of vragen die ontstonden
 
-**Succes Indicatoren:**
+**Succes indicatoren:**
 
 - ✅ Interview verliep volgens geplande tijdlijn
 
@@ -199,7 +194,7 @@ me weten dan informeer ik \[kandidaat\] direct."
 
 - ✅ Feedback loop binnen 24 uur gesloten
 
-## **Quick Reference - Interview Prep Checklist:**
+## **Quick reference - Interview prep checklist:**
 
 **Voorbereiding:**
 
@@ -209,7 +204,7 @@ me weten dan informeer ik \[kandidaat\] direct."
 
 - ✅ Interview context helder (urgentie, andere kandidaten, budget)
 
-**Kandidaat Coaching:**
+**Kandidaat coaching:**
 
 - ✅ Context gesprek gedeeld (structuur, deelnemers, focus)
 
@@ -221,7 +216,7 @@ me weten dan informeer ik \[kandidaat\] direct."
 
 - ✅ Gunfactor principes besproken
 
-**Klant Verwachtingen:**
+**Klant verwachtingen:**
 
 - ✅ Agenda afgestemd
 
@@ -229,7 +224,7 @@ me weten dan informeer ik \[kandidaat\] direct."
 
 - ✅ Tijdlijn verwachtingen gecommuniceerd
 
-**Interview Dag:**
+**Interview dag:**
 
 - ✅ Kandidaat check-in 2u voor gesprek
 
@@ -239,7 +234,7 @@ me weten dan informeer ik \[kandidaat\] direct."
 
 **Opvolging:**
 
-- 🚨 Risking Moment – Interview prep - 9
+- 🚨 Risking moment – Interview prep - 9
 
 - ✅ Kandidaat debrief binnen 2u (Hoofdstuk 13)
 

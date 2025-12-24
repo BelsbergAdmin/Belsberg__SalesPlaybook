@@ -152,7 +152,7 @@ daarna de overige 80% af voor volume, referrals en marktinformatie. Zie
 
 ### STAP 4: E-shot Campaign naar Shortlist (30 minuten)
 
-**Doel:** Eerste schot hagel naar geselecteerde kandidaten
+**Doel:** Eerste outreach naar geselecteerde kandidaten
 
 Voor e-shot templates, zie **Addendum D, Templates D9-D11** (varianten
 op basis van urgentie).
@@ -189,8 +189,7 @@ verder met:
 
 **1. Praktische Zaken Bespreken:**
 
-- **Tarief:** Onderhandel altijd. Vraag: "Wat zou het minimale tarief
-  zijn waarvoor je nog steeds blij zou zijn om verder te gaan?" Probeer
+- **Tarief:** Onderhandel altijd. Vraag: "Als het niet je ideale tarief kan zijn, waarvoor je nog steeds blij zou zijn om verder te gaan?" Probeer
   te onderhandelen naar beneden waar mogelijk.
 
 - **Reden voor vertrek:** Vraag naar de reden waarom de kandidaat
@@ -202,7 +201,7 @@ verder met:
 - **Andere rollen bij huidige klant:** Vraag of er mogelijkheden zijn
   voor verlenging van het huidige contract
 
-- **Reistijd:** Informeer naar de reistijd naar de klantlocatie
+- **Reistijd / hybride:** Informeer naar de reistijd naar de klantlocatie / wensen
 
 **2. Maximaliseer het Telefoongesprek:**
 
@@ -217,7 +216,7 @@ verder met:
 
 - Bevestig exclusiviteit en vertrouwelijkheid via email
 
-- Sluit af met de vraag of ze voor het einde van de dag per email willen
+- Sluit af met de vraag of ze binnen het uur per email willen
   reageren
 
 **Bij Negatieve Reactie - Zie Addendum E, Script E31**
@@ -322,11 +321,10 @@ klant om de kans op een succesvolle plaatsing te vergroten.
 
 **Minimale Output Verificatie:**
 
-- ✓ Minimaal 3 sendouts gerealiseerd (non-negotiable) ✓ Alle sendouts
-
-hebben recente CV en zijn exclusief geblokkeerd ✓ Shortlist volledig
-opgeruimd (duidelijke status per kandidaat) ✓ Leads en referrals uit
-gesprekken geregistreerd
+- ✓ Minimaal 3 sendouts gerealiseerd (non-negotiable) 
+- ✓ Alle sendouts hebben recente CV en zijn exclusief geblokkeerd 
+- ✓ Shortlist volledig opgeruimd (duidelijke status per kandidaat) 
+- ✓ Leads en referrals uit gesprekken geregistreerd
 
 De shortlist moet zo veel mogelijk worden opgeruimd binnen 48 uur! (CV
 verzonden, afgewezen, enz.) Dit zorgt voor een efficiënte opvolging en
@@ -364,57 +362,57 @@ Verplichte Documentatie:
 
 **Voorbereiding**
 
-- [x] Job requirements volledig begrepen
+- Job requirements volledig begrepen
 
-- [x] Sourcing strategie bepaald
+- Sourcing strategie bepaald
 
-- [x] Bullhorn skills codes geïdentificeerd
+- Bullhorn skills codes geïdentificeerd
 
-- [x] Boolean search strings ontwikkeld
+- Boolean search strings ontwikkeld
 
-- [x] Call scripts en templates gereed (Addenda D & E)
+- Call scripts en templates gereed (Addenda D & E)
 
 **Uitvoering (9 Stappen)**
 
-- [x] Stap 1: Job posting live op LinkedIn, website, Indeed
+- Stap 1: Job posting live op LinkedIn, website, Indeed
 
-- [x] Stap 2: Skills code search in Bullhorn (15-20 kandidaten)
+- Stap 2: Skills code search in Bullhorn (15-20 kandidaten)
 
-- [x] Stap 3: Boolean search in Bullhorn (15-20 extra kandidaten)
+- Stap 3: Boolean search in Bullhorn (15-20 extra kandidaten)
 
-- [x] Stap 4: E-shot naar shortlist verzonden (Template D9-D11)
+- Stap 4: E-shot naar shortlist verzonden (Template D9-D11)
 
-- [x] Stap 5: Eerste belronde + voicemail + WhatsApp (Script E30)
+- Stap 5: Eerste belronde + voicemail + WhatsApp (Script E30)
 
-- [x] Stap 6: Tweede belronde voor non-responders
+- Stap 6: Tweede belronde voor non-responders
 
-- [x] Stap 7: LinkedIn InMail naar 50+ kandidaten (Template D12)
+- Stap 7: LinkedIn InMail naar 50+ kandidaten (Template D12)
 
-- [x] Stap 8: Herhaling stap 5-6 voor nieuwe kandidaten
+- Stap 8: Herhaling stap 5-6 voor nieuwe kandidaten
 
-- [x] Stap 9: Headhunten zonder mobiele nummers
+- Stap 9: Headhunten zonder mobiele nummers
 
 **48-Uur Deadline**
 
-- [x] Minimaal 3 sendouts binnen 48 uur
+- Minimaal 3 sendouts binnen 48 uur
 
-- [x] Shortlist volledig opgeruimd (statussen toegekend)
+- Shortlist volledig opgeruimd (statussen toegekend)
 
-- [x] Alle gesprekken gedocumenteerd in Bullhorn
+- Alle gesprekken gedocumenteerd in Bullhorn
 
-- [x] Leads en referrals gedeeld met team
+- Leads en referrals gedeeld met team
 
-- [x] Marktinformatie vastgelegd
+- Marktinformatie vastgelegd
 
 **80-20 Regel Toepassing (zie Addendum G)**
 
-- [x] 20% top kandidaten geïdentificeerd en als eerste benaderd
+- 20% top kandidaten geïdentificeerd en als eerste benaderd
 
-- [x] 80% voor volume, referrals en marktinformatie
+- 80% voor volume, referrals en marktinformatie
 
-- [x] ROI gemaximaliseerd door elk gesprek te benutten
+- ROI gemaximaliseerd door elk gesprek te benutten
 
-- [x] Efficiëntie en snelheid boven perfectie
+- Efficiëntie en snelheid boven perfectie
 
 **Verwijzingen:**
 

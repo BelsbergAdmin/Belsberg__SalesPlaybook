@@ -152,20 +152,20 @@ heeft ook interesse van \[vage andere kans referentie\]. Ik kan
 
 ## **3. Opvolging**
 
-**Direct na Sendout (binnen 2 uur):**
+**In lijn met afspraak bij jobintake (indien geen afspraak gemaakt / mogelijk):**
 
 - ✅ Bevestiging call naar klant: "Heb je de CV van \[naam\] ontvangen?"
 
-- ✅ Eerste indruk peilen: "Wat is je directe reactie?"
+- ✅ Eerste indruk peilen: "Wat is je eerste reactie?"
 
-- ✅ Next steps bevestigen: "Wanneer kunnen we feedback verwachten?"
+- ✅ Next steps bevestigen: "Wanneer kunnen we feedback verwachten of zou je de kandidaat kunnen spreken?"
 
-- ✅ Kandidaat update: "\[Klant\] heeft je CV ontvangen, feedback
+- ✅ Kandidaat update: "\[Klant\] heeft je CV ontvangen, feedback / interviews
   verwacht \[tijdslimiet\]"
 
 **24-Uur Follow-up (indien geen reactie):**
 
-- Vriendelijke herinnering met extra verkooppunt
+- Vriendelijke herinnering met motivatie (urgentie / 
 
 - Alternatieve contact persoon binnen organisatie proberen
 

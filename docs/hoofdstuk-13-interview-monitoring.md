@@ -2,7 +2,7 @@
 
 ## **Wat, Waarom & Hoe**
 
-**Wat is doeltreffende Interview Monitoring?** Interview Monitoring is
+**Wat is doeltreffende interview monitoring?** Interview monitoring is
 je actieve rol tijdens het sollicitatieproces om soepele uitvoering te
 garanderen. Je zorgt ervoor dat beide partijen goed voorbereid zijn, het
 gesprek volgens planning verloopt, en je direct handelt bij wijzigingen.
@@ -33,22 +33,24 @@ handelen bij wijzigingen.
 
 **Pre-Interview Verificatie (dag voor interview):**
 
-**Logistiek Dubbel-Check:** ☑ Interview planning bevestigd (tijd,
-locatie/link, duur) ☑ Alle deelnemers geconfirmeerd (namen, rollen,
-contact details) ☑ Praktische zaken geregeld (toegang, parkeren, video
-platform links) ☑ Backup contactgegevens van beide partijen paraat ☑
-Interview agenda en focuspunten bevestigd
+**Logistiek Dubbel-Check:**
+- Interview planning bevestigd (tijd, locatie/link, duur)
+- Alle deelnemers geconfirmeerd (namen, rollen, contact details)
+- Praktische zaken geregeld (toegang, parkeren, video platform links)
+- Backup contactgegevens van beide partijen paraat 
+- Interview agenda en focuspunten bevestigd
 
-**Communicatie Setup:** ☑ Klant hoofdcontact geïdentificeerd in geval
-van wijzigingen ☑ Kandidaat mobiel nummer bevestigd en WhatsApp check ☑
-Intern escalatie plan (wie bij noodgeval beschikbaar) ☑ Alternatieve
-timing opties klaar indien wijzigingen nodig
+**Communicatie Setup:**
+- Klant hoofdcontact geïdentificeerd in geval van wijzigingen
+- Kandidaat mobiel nummer bevestigd en WhatsApp check 
+- Intern escalatie plan (wie bij noodgeval beschikbaar)
+- Alternatieve timing opties klaar indien wijzigingen nodig
 
 ## **2. Uitvoering**
 
-**Dag-Van Interview Beheer:**
+**Dag van interview beheer:**
 
-**Actieve Monitoring (1 uur voor tot 1 uur na interview):**
+**Actieve monitoring (1 uur voor tot 1 uur na interview):**
 
 - Telefoon bereikbaar houden voor beide partijen
 
@@ -56,9 +58,9 @@ timing opties klaar indien wijzigingen nodig
 
 - Klaar met contingentie plannen voor gewone problemen
 
-**Crisis Beheer Scenario's & Reacties:**
+**Crisis beheer scenario's & reacties:**
 
-**Kandidaat Ziekte/Noodgeval:**
+**Kandidaat ziekte/noodgeval:**
 
 1.  Directe call naar klant met situatie en opties
 
@@ -68,9 +70,9 @@ timing opties klaar indien wijzigingen nodig
 
 4.  Follow-up op kandidaat gezondheid/situatie
 
-**Klant Last-Minute Annulering:**
+**Klant last-minute annulering:**
 
-1.  Directe kandidaat informatie met context
+1.  Direct kandidaat informeren met context
 
 2.  Alternatieve tijdslots binnen 48 uur voorstellen
 
