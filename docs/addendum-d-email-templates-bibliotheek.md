@@ -214,28 +214,7 @@ Interesse? Reageer of stuur een DM.
 
 \#freelance \#\[relevante hashtags\]
 
-### Template D9: E-shot - Hoge Urgentie
-
-**Wanneer te gebruiken:** Bij urgent vacature met korte deadline
-**Doel:** Snel actie uitlokken
-
-**Onderwerp:** URGENT: \[Functietitel\] - Start a.s.a.p.
-
-Hoi \[Naam\],
-
-**Urgente opdracht** waar ik direct moet schakelen:
-
-**Functie:** \[Titel\] **Klant:** \[Type organisatie - geen naam\]
-**Start:** Deze/volgende week **Duur:** \[X maanden\] **Tarief:**
-€\[range\]/dag **Locatie:** \[Stad/Remote\]
-
-Klant wil direct gesprekken. Ben je beschikbaar?
-
-Bel direct \[nummer\] of reageer snel!
-
-Groet, \[Jouw naam\]
-
-### Template D10: E-shot - Gemiddelde Urgentie
+### Template D9: E-shot - Gemiddelde Urgentie
 
 **Wanneer te gebruiken:** Bij standaard vacature met normale tijdlijn
 **Doel:** Interesse wekken zonder druk
@@ -265,29 +244,6 @@ Zou dit interessant zijn voor jou of iemand in je netwerk?
 
 Groet, \[Jouw naam\]
 
-### Template D11: E-shot - Lage Urgentie
-
-**Wanneer te gebruiken:** Bij niet-urgente vacature of pipeline building
-**Doel:** Informeren zonder druk
-
-**Onderwerp:** \[Functietitel\] gezocht
-
-Hoi \[Naam\],
-
-Korte update: Ik zoek een \[functietitel\] voor een opdracht bij \[type
-organisatie\].
-
-**DETAILS:**
-
-- \[Locatie en duur\]
-
-- \[Key requirement\]
-
-- Start: \[periode\]
-
-Interesse of ken je iemand? Laat het me weten.
-
-Groet, \[Jouw naam\]
 
 ### Template D12: LinkedIn InMail
 
@@ -307,7 +263,7 @@ past:
 
 - \[Commerciële highlight - bijv. tarief/duur/klant type\]
 
-Interesse om te sparren?
+Interesse om hierover te spreken?
 
 Groet, \[Jouw naam\] Belsberg - Specialist in freelance HR/HRIT
 
@@ -470,42 +426,6 @@ Bij vragen over het contract bel of mail me gerust.
 
 Met vriendelijke groet, \[Jouw naam\]
 
-## Relatiebeheer Templates
-
-### Template D16: B-Relatie Kwartaal Check-in
-
-**Wanneer te gebruiken:** Elke 3 maanden voor B-relaties **Doel:**
-Relatie warm houden en opportunities signaleren
-
-**Onderwerp:** Check-in - Hoe gaat het?
-
-Hi \[naam\],
-
-Tijd voor een update! Ik ben benieuwd:
-
-- Hoe bevalt je huidige situatie?
-
-- Zijn er ontwikkelingen in je vakgebied die opvallen?
-
-- Loopt je huidige opdracht volgens planning?
-
-Ik zag recent \[relevante ontwikkeling/artikel/kans\] en dacht aan je.
-
-Zin om binnenkort bij te praten? Koffie of een korte call?
-
-Groet, \[Jouw naam\]
-
-### Template D17: C-Relatie Halfjaarlijks Contact
-
-**Wanneer te gebruiken:** Elke 6 maanden voor C-relaties **Doel:**
-Minimaal contact behouden
-
-**LinkedIn Bericht:**
-
-Hi \[naam\], weer een half jaar verder! Benieuwd hoe het met je gaat en
-of er interessante ontwikkelingen zijn. Tijd voor een update?
-
-Groet, \[Jouw naam\]
 
 **Template D18: Email Lead Chase**
 
@@ -525,7 +445,7 @@ ondersteuning zoeken voor \[specifiek gebied/project\]. Klopt dit?
 
 \- Gespecialiseerd netwerk van 200+ HR/HRIT professionals  
 - Snelle levering (vaak binnen 48 uur eerste kandidaten)  
-- No cure, no pay - alleen betalen bij succesvolle plaatsing
+- No cure, no pay - alleen betalen bij succesvolle inhuur
 
 **Voorbeeld profiel:**
 

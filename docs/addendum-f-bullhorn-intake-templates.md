@@ -2,9 +2,10 @@
 
 ## Template F1: Job Intake Template Bullhorn
 
-**Vakgebied**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Klant**:
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Datum**: \_\_\_\_\_\_\_\_\_\_\_
-**Consultant**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Vakgebied**: \_\_\_\_\_
+**Klant**: \_\_\_\_\_
+**Datum**: \_\_\_\_\_
+**Consultant**: \_\_\_\_\_
 
 Reason (Reden voor Openstaande Positie)
 
@@ -33,10 +34,10 @@ Project & Responsibilities (Projectcontext & Verantwoordelijkheden)
 
 **Belangrijkste deliverables**:
 
-**Rapporteert aan**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Functie
-manager**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Rapporteert aan**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
+**Functie manager**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Ideal Profile (Ideaal Kandidaatprofiel)
+Ideal Profiel (Ideaal Kandidaatprofiel)
 
 **Must-have competenties**:
 
@@ -52,19 +53,21 @@ Ideal Profile (Ideaal Kandidaatprofiel)
 
 Contract Details (Contractinformatie)
 
-**Startdatum**: \_\_\_\_\_\_\_\_\_\_ **Gewenst**: \_\_\_\_\_\_\_\_\_\_
+**Startdatum**: \_\_\_\_\_\_\_\_\_\_ 
+**Gewenst**: \_\_\_\_\_\_\_\_\_\_
 **Uiterlijk**: \_\_\_\_\_\_\_\_\_\_
 
-**Duur opdracht**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Regime**:
-\_\_\_\_\_ dagen per week
+**Duur opdracht**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
+**Regime**: \_\_\_\_\_ dagen per week
 
-**Tarief range**: €\_\_\_\_\_ - €\_\_\_\_\_ per dag **Budget
-goedkeuring**: Ja/Nee
+**Tarief range**: €\_\_\_\_\_ - €\_\_\_\_\_ per dag 
+**Budget goedkeuring**: Ja/Nee
 
-**Locatie**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Remote
-mogelijkheid**: \_\_\_%
+**Locatie**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
+**Remote mogelijkheid**: \_\_\_%
 
-**Uren per week**: \_\_\_\_\_ **Flexibiliteit in uren**: Ja/Nee
+**Uren per week**: \_\_\_\_\_ 
+**Flexibiliteit in uren**: Ja/Nee
 
 Process (Proces & Planning)
 
@@ -82,8 +85,8 @@ Process (Proces & Planning)
 
 **Beslissingstermijn na laatste gesprek**: \_\_\_\_\_ dagen
 
-**Feedback termijn op CV's**: \_\_\_\_\_ dagen **Wie beoordeelt**:
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Feedback termijn op CV's**: \_\_\_\_\_ dagen 
+**Wie beoordeelt**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Interview Slots (Beschikbare Interview Tijden)
 
@@ -123,10 +126,10 @@ Close (Afsluiting & Vervolgstappen)
 
 ## Template F2: Kandidaat Intake Template Bullhorn
 
-**Naam**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Telefoon**:
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Email**:
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **LinkedIn**:
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Naam**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
+**Telefoon**:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
+**Email**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
+**LinkedIn**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Availability (Beschikbaarheid)
 
@@ -161,13 +164,14 @@ Location (Locatievoorkeuren)
 **Reisbereidheid**: \_\_\_\_\_ km van woonplaats **Woonplaats**:
 \_\_\_\_\_\_\_\_\_\_\_
 
-**Vervoer**: Auto/OV/Combi **Parkeervergoeding nodig**: Ja/Nee
+**Vervoer**: Auto/OV/Combi 
+**Parkeervergoeding nodig**: Ja/Nee
 
-**Remote werk voorkeur**: \_\_\_\_% **Minimum kantoor dagen**:
-\_\_\_\_\_ per week
+**Remote werk voorkeur**: \_\_\_\_% 
+**Minimum kantoor dagen**: \_\_\_\_\_ per week
 
-**Ervaring met remote werken**: \_\_\_\_\_ jaar **Tools bekend**:
-\_\_\_\_\_\_\_\_\_\_\_
+**Ervaring met remote werken**: \_\_\_\_\_ jaar 
+**Tools bekend**: \_\_\_\_\_\_\_\_\_\_\_
 
 Languages (Taalvaardigheden)
 
@@ -183,10 +187,11 @@ Languages (Taalvaardigheden)
 
 Current Role (Huidige Functie)
 
-**Functietitel**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Bedrijf**:
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Sector**:
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Start datum**:
-\_\_\_\_\_\_\_\_\_\_ **Verwachte einde**: \_\_\_\_\_\_\_\_\_\_
+**Functietitel**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
+**Bedrijf**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
+**Sector**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
+**Start datum**: \_\_\_\_\_\_\_\_\_\_ 
+**Verwachte einde**: \_\_\_\_\_\_\_\_\_\_
 
 **Hoe aan deze rol gekomen**: Via bureau/Direct/Netwerk/Anders:
 \_\_\_\_\_\_\_\_\_\_\_
@@ -299,12 +304,12 @@ Close on CV (Afsluiting CV)
 
 ## Template F3: Client Intake Template Bullhorn
 
-**Bedrijf**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Contactpersoon**:
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Functie**:
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Telefoon**:
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Email**:
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **LinkedIn**:
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Bedrijf**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
+**Contactpersoon**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
+**Functie**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
+**Telefoon**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
+**Email**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
+**LinkedIn**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Role and Responsibility (Rol & Verantwoordelijkheid Contactpersoon)
 

@@ -215,45 +215,45 @@ punten
 **Investering**: 20-25 uur over 2-3 dagen  
 **Aanpak**:
 
-- Alle sourcing kanalen tegelijk activeren
+- 100% Work a job proces volgen
 
 - Dagelijkse klant updates
 
 - Prioriteit boven andere opdrachten
 
-- Senior consultant toewijzing
+- Extra sourcing (Associate) Consultant inschakelen
 
 - 80% van beschikbare sourcing tijd
 
 24-31 punten: GOED INVULBAAR ✅
 
-**Investering**: 12-18 uur over 3-4 dagen  
+**Investering**: 12-18 uur over 2-3 dagen  
 **Aanpak**:
 
-- 2-3 primaire sourcing kanalen
+- 100% Work a job proces volgen
 
 - Om de dag klant contact
 
 - Standaard proces met extra aandacht
 
-- Reguliere consultant handling
+- Zelf sourcen
 
-- 50% van beschikbare sourcing tijd
+- 60% van beschikbare sourcing tijd
 
 16-23 punten: NEUTRAAL INVULBAAR ⚠️
 
-**Investering**: 8-12 uur over 4-5 dagen  
+**Investering**: 8-12 uur over 2-3 dagen  
 **Aanpak**:
 
-- 1-2 hoogste ROI kanalen
+- 100% Work a job proces volgen
 
-- 2x per week klant updates
+- Om de dag klant contact
 
 - Efficiënte basis aanpak
 
 - Selectieve sourcing
 
-- 20% van beschikbare sourcing tijd
+- 40% van beschikbare sourcing tijd
 
 8-15 punten: SLECHT INVULBAAR 🚫
 

@@ -10,7 +10,7 @@ Een gestructureerd proces direct na het interview waarbij je systematisch feedba
 - **Voorkomt verrassingen:** Problemen komen boven vóór de aanbodfase
 - **Bouwt commitment:** Kandidaten en klanten tonen eigenaarschap
 - **Versnelt besluitvorming:** Minder momentumverlies
-- **Twijfels vroeg signaleren:** Zorgen worden vóór offerte opgelost
+- **Twijfels vroeg signaleren:** Zorgen worden vóór aanbod opgelost
 - **Relatieversterking:** Professionele opvolging bouwt vertrouwen
 - **Pre-close voorbereiding:** Geeft inzicht voor aanbiedingfase
 - **Concurrentie-inzicht:** Helpt beslisdruk inschatten
@@ -205,9 +205,12 @@ Een gestructureerd proces direct na het interview waarbij je systematisch feedba
 
 ### Commitmentniveaus
 
-**Groen:** duidelijke voorkeur  
-**Geel:** voorwaarden, enkele zorgen  
-**Rood:** lage fit, betere alternatieven  
+**Groen:** 
+- duidelijke voorkeur  
+**Geel:** 
+- voorwaarden, enkele zorgen  
+**Rood:** 
+- lage fit, betere alternatieven  
 
 ---
 

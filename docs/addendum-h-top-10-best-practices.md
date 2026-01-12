@@ -39,7 +39,7 @@ Beëindig nooit een gesprek zonder concrete volgende stap met tijdlijn.
 ### 8. Build Genuine Relationships
 
 Dale Carnegie had gelijk: mensen doen zaken met mensen die ze leuk
-vinden. Investeer in echte connecties, niet alleen transacties.
+vinden. Investeer in echte connecties, niet alleen transacties. Of ben 100% relevant.
 
 ### 9. Stay Market Current
 

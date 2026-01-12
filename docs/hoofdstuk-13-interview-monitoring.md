@@ -31,16 +31,16 @@ handelen bij wijzigingen.
 
 ## **1. Voorbereiding**
 
-**Pre-Interview Verificatie (dag voor interview):**
+**Pre-interview verificatie (dag voor interview):**
 
-**Logistiek Dubbel-Check:**
+**Logistiek dubbel-check:**
 - Interview planning bevestigd (tijd, locatie/link, duur)
 - Alle deelnemers geconfirmeerd (namen, rollen, contact details)
 - Praktische zaken geregeld (toegang, parkeren, video platform links)
 - Backup contactgegevens van beide partijen paraat 
 - Interview agenda en focuspunten bevestigd
 
-**Communicatie Setup:**
+**Communicatie setup:**
 - Klant hoofdcontact geïdentificeerd in geval van wijzigingen
 - Kandidaat mobiel nummer bevestigd en WhatsApp check 
 - Intern escalatie plan (wie bij noodgeval beschikbaar)
@@ -48,7 +48,7 @@ handelen bij wijzigingen.
 
 ## **2. Uitvoering**
 
-**Dag van interview beheer:**
+**Dag van interview management:**
 
 **Actieve monitoring (1 uur voor tot 1 uur na interview):**
 
@@ -58,7 +58,7 @@ handelen bij wijzigingen.
 
 - Klaar met contingentie plannen voor gewone problemen
 
-**Crisis beheer scenario's & reacties:**
+**Crisis management scenario's & reacties:**
 
 **Kandidaat ziekte/noodgeval:**
 
@@ -66,7 +66,7 @@ handelen bij wijzigingen.
 
 2.  Alternatieve kandidaat voorstellen indien klaar
 
-3.  Herplannen opties binnen 24-48 uur aanbieden
+3.  Nieuwe opties aanbieden binnen 24-48 uur
 
 4.  Follow-up op kandidaat gezondheid/situatie
 
@@ -74,11 +74,11 @@ handelen bij wijzigingen.
 
 1.  Direct kandidaat informeren met context
 
-2.  Alternatieve tijdslots binnen 48 uur voorstellen
+2.  Nieuwe opties aanbieden binnen 24-48 uur
 
 3.  Verifiëren dat annulering niet afwijzing betekent
 
-4.  Momentum behouden door alternatieve waarde toevoegingen
+4.  Momentum behouden door alternatieve waarde toevoegingen (bv urgentie of alternatief format)
 
 **Technologie Problemen (video interviews):**
 
@@ -88,45 +88,40 @@ handelen bij wijzigingen.
 
 3.  Test calls 30 minuten vooraf indien mogelijk
 
-4.  Duidelijke escalatie naar persoonlijk alternatief
-
 **Interview Uitloop/Vertragingen:**
 
 1.  Monitor timing discreet via feedback van partijen
 
 2.  Waarschuw wachtende stakeholders van vertragingen
 
-3.  Pas dag-van planning dienovereenkomstig aan
+3.  Pas dag van planning dienovereenkomstig aan
 
 4.  Zorg dat volgende afspraken geïnformeerd zijn
 
 ## **3. Opvolging**
 
-**Post-Interview Directe Acties:**
+**Post-interview directe acties:**
 
-**Succes Verificatie Checklist:** ☑ Interview verliep volgens planning
-(timing, deelnemers, agenda) ☑ Geen technische problemen of
-miscommunicaties ☑ Beide partijen tevreden met ervaring en proces ☑ Next
-steps duidelijk gecommuniceerd en begrepen ☑ Feedback tijdlijn
-vastgesteld en bevestigd
+**Succes Verificatie Checklist:** 
+☑ Interview verliep volgens planning (timing, deelnemers, agenda) 
+☑ Geen technische problemen of miscommunicaties 
+☑ Beide partijen tevreden met ervaring en proces 
+☑ Next steps duidelijk gecommuniceerd en begrepen 
+☑ Feedback tijdlijn vastgesteld en bevestigd
 
-**Directe Communicatie (binnen 1 uur na interview):**
+**Directe communicatie (binnen 1 uur na interview):**
 
-- Korte check-in met beide partijen over ervaring
+- Korte check-in met beide partijen over ervaring (via Whatsapp)
 
-- Bevestig feedback verwachtingen en tijdlijn
+- Bevestig formele debrief calls (zie hoofdstukken 13)
 
-- Plan formele debrief calls (zie hoofdstukken 13)
-
-**Documentatie Vereisten:**
+**Documentatie vereisten:**
 
 - Interview voltooiing gelogd in CRM met basis notities
 
 - Problemen/uitdagingen/successen genoteerd voor leren
 
-- Next steps en tijdlijn bevestigd en gevolgd
-
-**Succes Metrieken:**
+**Succes metrieken:**
 
 - **Nul verrassingen percentage**: Geen onverwachte wijzigingen of
   problemen
@@ -137,7 +132,7 @@ vastgesteld en bevestigd
 
 - **Follow-up snelheid**: Debrief calls ingepland binnen 24 uur
 
-**Quick Reference - Interview Dag Checklist:**
+**Quick reference - Interview dag checklist:**
 
 - ✅ Ochtend bevestiging calls voltooid
 

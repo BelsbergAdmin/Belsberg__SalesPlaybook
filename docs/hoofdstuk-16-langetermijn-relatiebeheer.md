@@ -2,15 +2,15 @@
 
 ## Wat, Waarom & Hoe
 
-**Wat is Langetermijn Relatiebeheer?**  
+**Wat is langetermijn relatiebeheer?**  
 Het systematisch onderhouden en verdiepen van relaties met kandidaten en klanten om duurzame partnerships te bouwen die leiden tot herhaalbusiness, referrals en een sterke marktpositie.
 
-**Waarom is systematisch Relatiebeheer cruciaal voor groei?**
+**Waarom is systematisch relatiebeheer cruciaal voor groei?**
 
 - Herhaalbusiness: 80% van toekomstige opdrachten komt uit bestaande relaties
 - Referral-multiplicator: Tevreden relaties leveren 3–5 leads per jaar
 - Concurrentievoordeel: Sterke relaties zijn niet te kopiëren
-- Hogere marges: Vertrouwde partners ervaren minder prijsdruk
+- Hogere RIO: Vertrouwde partners, vertrouwd proces, minder hickups
 - Marktinzicht: Regelmatig contact = continue businesssignalen
 - Relatieplezier: Betekenisvolle professionele connecties
 
@@ -67,17 +67,20 @@ Door consistente touchpoints, waardecreatie en professioneel vertrouwen.
 ### A-Klanten (maandelijks – 20 min)
 
 **Business Check-in**
+
 - “Hoe ontwikkelt jullie organisatie zich?”  
 - “Welke uitdagingen spelen er nu?”  
 - “Hoe lopen lopende projecten?”
 
 **Marktinzicht delen**
+
 - Trends, benchmarks, bewegingen in de markt
 - Relevante observaties die impact hebben op hun business
 
 **Toekomstplanning**
+
 - “Welke projecten komen eraan?”  
-- “Waar ontstaan HR/IT-behoeften?”  
+- “Waar ontstaan HR/IT of Finance-behoeften?”  
 
 ---
 
@@ -208,7 +211,6 @@ Scripts: Addendum E – E39–E42
 - Proactieve klant outreach  
 - Referrals binnen organisatie  
 - Betrokkenheid bij strategische plannen  
-- Premium tarieven  
 - First-call status  
 
 ---
@@ -244,7 +246,7 @@ Scripts: Addendum E – E39–E42
 - C-klanten halfjaar  
 - Kandidaten A/B/C frequenties  
 
-### Waarde-Add
+### Waarde-add
 - Inzichten  
 - Introducties  
 - Strategisch advies  
@@ -264,9 +266,10 @@ Scripts: Addendum E – E39–E42
 - Doelen  
 
 **Succesindicatoren**
+
 - 80% business uit bestaande relaties  
 - 3+ referrals per A-relatie per jaar  
 - 90%+ klantretentie A/B  
 - 60%+ herhaalplaatsingen  
-- Premium pricing acceptatie  
+ 
 

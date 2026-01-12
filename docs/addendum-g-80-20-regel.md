@@ -37,7 +37,7 @@ Focus op top 20% → 3-5 sendouts binnen 48 uur
 
 **A-Prospects (Top 20%):**
 
-\- Concrete hiring behoefte NOW  
+\- Concrete hiring behoefte NU  
 - Budget goedgekeurd  
 - Decision maker direct bereikbaar  
 - Goede organisatie fit (sector, grootte)  

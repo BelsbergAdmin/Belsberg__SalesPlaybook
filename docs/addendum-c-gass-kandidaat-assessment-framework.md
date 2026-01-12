@@ -158,15 +158,13 @@ Score: ☐1 ☐2 ☐3 ☐4 ☐5
 
 **Actie**:
 
-- Eerste kandidaat die je presenteert aan klant
-
-- Premium CV optimalisatie en positioning
+- Eerste kandidaat die je presenteert aan klant 
 
 - Uitgebreide interview voorbereiding sessie
 
 - Priority scheduling bij klant
 
-- Nauwgezette process management
+- Nauwgezet process management
 
 3.5-4.4: STRONG CANDIDATE ✅
 
@@ -174,25 +172,21 @@ Score: ☐1 ☐2 ☐3 ☐4 ☐5
 
 - Sterke kandidaat voor presentatie
 
-- Standaard CV optimalisatie
+- Uitgebreide interview voorbereiding sessie
 
-- Normale interview voorbereiding
+- Reguliere scheduling bij klant
 
-- Reguliere klant presentatie timing
-
-- Standaard process follow-up
+- Nauwgezet process management
 
 2.5-3.4: BORDERLINE CANDIDATE ⚠️
 
 **Actie**:
 
-- Alleen presenteren als onvoldoende sterke kandidaten
+- Mogelijk presenteren als vergelijking om andere kandidaten sterker te doen lijken
 
 - Extra coaching en development nodig
 
 - Manage verwachtingen bij beide partijen
-
-- Mogelijk later in process als backup
 
 1.5-2.4: WEAK CANDIDATE 🔄
 

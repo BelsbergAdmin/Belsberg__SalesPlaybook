@@ -5,7 +5,7 @@
 ### Script E1: LinkedIn Approach
 
 **Wanneer te gebruiken:** Bij approach call naar kandidaat gevonden via
-LinkedIn **Context:** Eerste telefonisch contact, je hebt hun profiel
+LinkedIn en telefoonnummer beschikbaar **Context:** Eerste telefonisch contact, je hebt hun profiel
 bekeken
 
 "Hi \[naam\], je spreekt met \[jouw naam\] van Belsberg. Ik zag je
@@ -44,14 +44,14 @@ betekenen. Sta je daarvoor open?"
 connectie **Context:** Eerste contact, kandidaat kent Belsberg niet
 
 "Goedemorgen \[naam\], met \[jouw naam\] van Belsberg. Wij zijn
-specialist in freelance HR-opdrachten in de Benelux. Is dit een goed
+specialist in freelance HRIT of Finance IT-opdrachten in de Benelux. Is dit een goed
 moment?"
 
 *\[Wacht op bevestiging\]*
 
-"Ik bel omdat we regelmatig interessante interim en freelance rollen
+"Ik bel omdat we regelmatig interessante freelance rollen
 hebben en ik je profiel tegenkwam. Zou je open staan voor een kort
-gesprek om te kijken of we voor elkaar interessant zijn?"
+gesprek om te kijken of we interessant voor elkaar kunnen zijn?"
 
 ## **Objection Handling Scripts**
 
@@ -84,13 +84,12 @@ komt? Ik beloof je geen spam, alleen relevante kansen."
 **Doel:** Respecteren en herplannen. Voor complete ASQ-methode, zie
 Scripts E43-E45.
 
-"Dat snap ik volledig - je had mijn belletje ook niet verwacht en bent
-druk. Wanneer zou het wel uitkomen? Dan bel ik je op een beter moment
+"Dat snap ik volledig - je had mijn belletje ook niet verwacht (en bent
+druk). Wanneer zou het wel uitkomen? Dan bel ik je op een beter moment
 terug."
 
 *\[Alternatief indien urgent:\]* "Ik snap het. Het zou echt maar 5
-minuten zijn - zou je die tijd nu hebben? Anders plan ik iets in wanneer
-het jou beter uitkomt."
+minuten zijn, ik heb mogelijk een interessante opdracht, - zou je die tijd nu hebben? Anders plan ik iets in wanneer het jou beter uitkomt."
 
 ## **SPIN Vraag Scripts**
 
@@ -193,7 +192,7 @@ het jou beter uitkomt."
 **Doel:** Verwachtingen stellen en commitment krijgen
 
 "Wat ik voor jullie ga doen, is het hele proces begeleiden zodat jullie
-geen tijd verliezen én uiteindelijk de juiste kandidaat kunnen aannemen.
+geen tijd verliezen én uiteindelijk de juiste / beste kandidaat kunnen inhuren.
 
 **Mijn aanpak:** Ik maak de komende twee dagen ruimte in mijn agenda
 vrij om actief op zoek te gaan - binnen én buiten mijn netwerk - naar de
@@ -236,7 +235,7 @@ voor interviews reserveren en een feedbackmoment plannen voor
 kosten/investering **Doel:** No cure no pay benadrukken
 
 "Belangrijk om te weten: jullie betalen alleen bij succesvolle
-plaatsing. Alle tijd die ik investeer in sourcing, screening, en
+inhuur. Alle tijd die ik investeer in sourcing, screening, en
 begeleiding tot aan de start - dat doen we zonder garantie op resultaat.
 Ik neem dat risico graag, omdat ik geloof in mijn aanpak. Wat ik vraag
 is dat we het proces samen efficiënt houden, zodat we snel tot resultaat
@@ -412,12 +411,10 @@ gespecialiseerd in exact dit type opdrachten. We hebben 200+
 gekwalificeerde HR freelancers actief op projecten en kunnen door ons
 netwerk meestal binnen 48 uur sterke kandidaten presenteren."
 
-**Next Steps (30 seconden):** "Kunnen we een korte intake inplannen
-waarin ik de rol volledig begrijp? Dan kan ik direct kijken of ik
-geschikte kandidaten heb."
-
-*\[OF bij meer tijd:\]* "Heb je nu 15 minuten waarin ik de rol volledig
+**Next Steps (15 minuten):** "Heb je nu 15 minuten waarin ik de rol volledig
 kan begrijpen? Dan kan ik direct kijken of ik geschikte kandidaten heb."
+
+*\[OF bij minder tijd:\]* "Kunnen we een korte intake inplannen waarin ik de rol volledig begrijp? Dan kan ik direct kijken of ik geschikte kandidaten heb."
 
 ### Script E25: Bezwaar Lead Chase - "Geen budget"
 
@@ -488,8 +485,7 @@ met \[critical skill\]?"
 
 - Referenties: Ken je anderen die ook interessant zijn?
 
-*\[Afsluiting:\]* "Ik ga je voorstellen. Kun je je CV voor het einde van
-de dag doorsturen? Dan hoor je morgen of de klant interesse heeft."
+*\[Afsluiting:\]* "Ik ga je voorstellen. Kun je je CV binnen 2u doorsturen? Dan kan ik je spoedig, hopelijk morgen al, laten weten of de klant interesse heeft."
 
 ### Script E31: Sourcing Call - Negatieve Reactie
 
@@ -517,16 +513,15 @@ zoektocht!"
 
 "Let op hoe je gesprekspartner communiceert en neem hun tempo en
 communicatiestijl over. Als hij directe antwoorden geeft, wees ook
-direct. Als hij meer context zoekt, geef die ruimte. Dit voelt
-natuurlijk aan en bouwt rapport op."
+direct. Als hij meer context zoekt, geef die ruimte." 
 
 ### Script E33: Coaching - Eigenaarschap
 
 **Wanneer te gebruiken:** Kandidaat is te passief **Doel:** Proactieve
 houding stimuleren
 
-"Dit is jullie gesprek samen, niet alleen een verhoor. Zorg dat je
-meebeweegt in het gesprek, maar weet zelf ook wat jij wilt ophalen.
+"Dit is jullie gesprek, niet alleen een verhoor. Zorg dat je
+meebeweegt in het gesprek, maar weet zelf ook wat jij eruit wil halen.
 Bereid 2-3 vragen voor die voor jou belangrijk zijn. Jij interviewt hen
 net zo goed als zij jou."
 
@@ -631,8 +626,7 @@ volgende week hoe het loopt."
 **Wanneer te gebruiken:** Direct na succesvolle plaatsing kandidaat
 **Doel:** Warm moment benutten voor referrals
 
-"\[Naam\], super dat dit gelukt is! Je bent een professional waar andere
-\[functie\] mensen vast veel van kunnen leren. Ken je toevallig
+"\[Naam\], super dat dit gelukt is! Ken je toevallig
 collega's die ook interesse zouden hebben in interessante freelance
 opdrachten? Ik zou ze graag willen leren kennen."
 
@@ -660,8 +654,7 @@ ervaring."
 **Wanneer te gebruiken:** Tijdens regulier contact met A-relatie
 **Doel:** Continue referral generatie
 
-"Wie zou er in jouw netwerk baat kunnen hebben bij onze aanpak? Ik ben
-altijd op zoek naar goede matches tussen talent en organisaties."
+"Wie zou er in jouw netwerk baat kunnen hebben bij onze aanpak? Zowel bedrijven als freelancers. Ik ben altijd op zoek naar goede matches tussen bedrijven en freelancers."
 
 **Gesprekstechnieken Scripts**
 
@@ -673,15 +666,10 @@ Valideren en weerstand wegnemen
 Basis Formules: ● "Snap ik helemaal, hoor ik vaker." ● "Begrijpelijk dat
 dat nu niet jullie prioriteit is." ● "Dat is logisch bij een bedrijf van
 jullie omvang." ● "Herkenbaar - veel klanten beginnen daar ook mee." ●
-"Dat waardeer ik dat je dat zo duidelijk aangeeft." ● "Helder - goed dat
+"Goed, fijn dat je dat zo duidelijk aangeeft." ● "Helder - goed dat
 je daar transparant over bent."
 
 Geavanceerde Acknowledge Patronen:
-
-Voor Senior Stakeholders: ● "Dat is een valide punt - ik zou hetzelfde
-overwegen in jouw positie." ● "Absolute prioriteit om daar goed over na
-te denken." ● "Waardering dat je de tijd neemt om dit zorgvuldig af te
-wegen."
 
 Voor Kandidaten: ● "Snap ik - je moet alle opties afwegen." ● "Logisch
 dat je niet meteen ja zegt." ● "Goed dat je kritisch bent, dat hoort
@@ -713,17 +701,15 @@ ons netwerk."
 Situatie-Specifieke Statements:
 
 Bij "Geen budget": ● "Wij werken no cure, no pay - je investeert alleen
-bij een succesvolle plaatsing." ● "Onze aanpak bespaart jullie intern
-recruitment tijd en dus geld."
+bij een succesvolle inhuur." 
 
 Bij "Werk al met andere bureaus": ● "Veel klanten gebruiken ons naast
 hun vaste partners voor specifieke niche-expertise." ● "Wij werken vaak
-als back-up voor als jullie reguliere kanalen niet leveren." ● "Veel
-klanten staan nu op onze PSL omdat ze ooit klein begonnen met een test."
+als back-up voor als jullie reguliere kanalen niet leveren." ● "Bij veel
+klanten staan we nu op hun PSL omdat we ooit begonnen als backup / als test."
 
 Bij "Te druk": ● "Dat is precies waarom wij bestaan - wij nemen het
-zoekwerk uit handen." ● "Ons proces bespaart jullie gemiddeld 15 uur per
-vacature."
+zoekwerk uit handen, en hebben een netwerk paraat." ● "Ons proces bespaart jullie gemiddeld 15 uur per vacature."
 
 Bij "Doen het zelf": ● "Dat is prima - wij werken vaak als fall-back
 voor als interne sourcing niet snel genoeg gaat." ● "Veel organisaties
@@ -835,15 +821,11 @@ initiatief bij jou
 Doel: Flexibele aanpak behouden afhankelijk van gesprekspartner
 
 Bij Nieuwe Contacten (nog geen relatie): "Doen we! Kan ik je dan morgen
-bellen om te horen of het aansluit? Dan hoef je niet uitgebreid te
-mailen terug."
+bellen om te horen of het aansluit? Dan hoef je niet uitgebreid terug te mailen."
 
 Bij Bestaande Relaties (bekend met jouw werkwijze): "Stuur ik. Zal ik je
 dan \[specifieke dag\] om \[tijd\] bellen om het door te nemen?"
 
-Bij Senior Stakeholders (respect tonen): "Absoluut. Wat wil je specifiek
-zien in die mail zodat het direct relevant is? Dan bel ik je volgende
-week om te checken of het interessant was."
 
 Bij Warme Leads (momentum hoog): "Perfect! Ik stuur het nu direct. Heb
 je over een uur 5 minuten om het kort te bespreken?"
@@ -873,11 +855,7 @@ Beleefd maar assertief het initiatief terughalen
 
 Situatie: Klant zegt "Ik stuur jou wel een functiebeschrijving"
 
-Direct en Vriendelijk: "Perfect! Zal ik je begin volgende week even
-bellen om te checken of dat is gelukt? Dan weet ik wanneer ik kan
-starten met zoeken."
-
-Met Concrete Planning: "Top — zal ik alvast een moment inplannen om het
+Direct, Vriendelijk Met Concrete Planning: "Top — zal ik alvast een moment inplannen om het
 samen door te nemen zodra je het hebt gestuurd? Past \[dag\] om
 \[tijd\]?"
 
@@ -893,7 +871,7 @@ Friendly Persistent: "Fijn! Kun je die vandaag nog sturen? Dan kan ik je
 voor het weekend al presenteren aan de klant."
 
 Met Urgentie (bij hot lead): "Top! Voor \[tijd\] vandaag? Dan kan ik je
-nog deze week voorstellen en heb je mogelijk al volgende week een
+vandaag voorstellen en heb je mogelijk al volgende week een
 gesprek."
 
 Met Reminder Commitment: "Perfect. Als ik het morgenochtend nog niet
@@ -916,14 +894,17 @@ De "Backup Plan" Strategie: "Als het niet lukt om \[deadline\], wat is
 dan een realistisch alternatief? Dan kan ik daar rekening mee houden." →
 Geeft flexibiliteit maar houdt jou in control
 
-**Wat ALTIJD te doen bij "Ik stuur jou wel wat":** ✅ Concrete deadline
-vragen/geven ✅ Zelf follow-up moment vastleggen ✅ Bevestigen wat er
-exact gestuurd wordt ✅ Reden geven waarom timing belangrijk is
+**Wat ALTIJD te doen bij "Ik stuur jou wel wat":** 
+✅ Concrete deadline vragen/geven 
+✅ Zelf follow-up moment vastleggen 
+✅ Bevestigen wat er exact gestuurd wordt 
+✅ Reden geven waarom timing belangrijk is
 
-**Wat NOOIT te doen:** ❌ Afwachten zonder follow-up plan ❌ Geen
-deadline of tijdslimiet noemen ❌ Te agressief pushen (relatie schaden)
-
-- ❌ Vertrouwen op "ze doen het wel" (gebeurt vaak niet)
+**Wat NOOIT te doen:** 
+❌ Afwachten zonder follow-up plan 
+❌ Geen deadline of tijdslimiet noemen 
+❌ Te agressief pushen (relatie schaden)
+❌ Vertrouwen op "ze doen het wel" (gebeurt vaak niet)
 
 ## Risking Scripts
 
