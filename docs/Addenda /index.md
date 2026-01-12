@@ -1,1 +1,1 @@
-- [Test PDF - jobqualificationform] (templates/JobQualificationform.pdf)
+- [Test PDF - jobqualificationform](templates/JobQualificationform.pdf)
