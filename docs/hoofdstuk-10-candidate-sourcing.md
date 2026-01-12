@@ -70,7 +70,7 @@ daarna de overige 80% af voor volume, referrals en marktinformatie. Zie
 
 - Sendout template voorbereid voor snelle CV verwerking
 
-## **2. Uitvoering - 9 Stappen Sourcing Proces**
+## **2. Uitvoering - 9 stappen Work a Job Proces**
 
 ### STAP 1: Job Posting Optimalisatie (30 minuten)
 
