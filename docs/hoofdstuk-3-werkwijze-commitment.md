@@ -163,11 +163,13 @@ Altijd direct een concreet feedbackmoment plannen.
 
 ### Do’s & Don’ts
 **Do**  
+
 - Concrete tijdstippen  
 - Voordelen voor de ander  
 - Proactieve updates  
 
 **Don’t**  
+
 - Vage toezeggingen  
 - Drammerig overkomen  
 - Onzekerheid laten bestaan  
