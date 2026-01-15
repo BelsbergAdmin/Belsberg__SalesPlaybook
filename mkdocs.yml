@@ -43,7 +43,6 @@ nav:
   - Hoofdstuk 16 – Langetermijn relatiebeheer: hoofdstuk-16-langetermijn-relatiebeheer.md
   - Slotwoord – Implementatie & succes: slotwoord-implementatie-succes.md
   - Addenda:
-      
       - Addendum A – Strategische vraagstelling (framework): addendum-a-strategische-vraagstelling-framework.md
       - Addendum B – 8 criteria invulbaarheid (assessment): addendum-b-8-criteria-van-invulbaarheid-assessment-framework.md
       - Addendum C – GASS kandidaat assessment: addendum-c-gass-kandidaat-assessment-framework.md
@@ -52,7 +51,7 @@ nav:
       - Addendum F – Bullhorn intake templates: addendum-f-bullhorn-intake-templates.md
       - Addendum G – 80/20-regel: addendum-g-80-20-regel.md
       - Addendum H – Top 10 best practices: addendum-h-top-10-best-practices.md
-      - Overzicht & templates: addenda/index.md
+      - Templates: addenda/index.md
 
 # Gebruik de echte GitHub Pages URL of laat weg voor lokale builds
 site_url: https://belsbergadmin.github.io/belsberg_playbook_webversie/
