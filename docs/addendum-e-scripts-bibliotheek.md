@@ -735,39 +735,44 @@ trekken en controle behouden
 
 Open Vervolgvragen (gebruik deze formules):
 
-Voor Exploratie: ● "Wat zou er moeten veranderen om dit wél interessant
-te maken?" ● "Hoe pakken jullie dit soort projecten normaal aan?" ● "Wat
-zijn jullie ervaringen geweest met externe partners?" ● "Hoe ziet jullie
-ideale samenwerking eruit?"
+Voor Exploratie: 
+● "Wat zou er moeten veranderen om dit wél interessant
+te maken?" 
+● "Hoe pakken jullie dit soort projecten normaal aan?" 
+● "Wat zijn jullie ervaringen geweest met externe partners?" 
+● "Hoe ziet jullie ideale samenwerking eruit?"
 
-Voor Timing: ● "Wanneer zou het wel relevant zijn om kennis te maken?" ●
-"Welke trigger zou ervoor zorgen dat jullie wel externe hulp overwegen?"
+Voor Timing: 
+● "Wanneer zou het wel relevant zijn om kennis te maken?" 
+● "Welke trigger zou ervoor zorgen dat jullie wel externe hulp overwegen?"
 ● "In welke situaties schakel je normaal gesproken een bureau in?"
 
-Voor Positionering: ● "Wat kan ik doen om als benchmark naast jullie
-vaste partners te lopen?" ● "Waar zou ik het verschil kunnen maken voor
-jullie?" ● "Welke toegevoegde waarde zoek je in een recruitment
-partner?"
+Voor Positionering: 
+● "Wat kan ik doen om als benchmark naast jullie vaste partners te lopen?" 
+● "Waar zou ik het verschil kunnen maken voor jullie?" 
+● "Welke toegevoegde waarde zoek je in een recruitment partner?"
 
-Voor Informatie: ● "Mag ik vragen waarom het nu niet interessant lijkt?"
-● "Wat zijn de belangrijkste criteria voor jullie bij het kiezen van een
-bureau?" ● "Hoe bepalen jullie met welke bureaus jullie willen
-samenwerken?"
+Voor Informatie: 
+● "Mag ik vragen waarom het nu niet interessant lijkt?"
+● "Wat zijn de belangrijkste criteria voor jullie bij het kiezen van een bureau?" 
+● "Hoe bepalen jullie met welke bureaus jullie willen samenwerken?"
 
-Voor Commitment (als situatie positiever wordt): ● "Zou het interessant
-zijn om eens een keer te sparren over jullie uitdagingen?" ● "Zullen we
-een kort kennismakingsgesprek inplannen?" ● "Mag ik je toevoegen aan
-mijn netwerk voor als er iets interessants voorbij komt?"
+Voor Commitment (als situatie positiever wordt): 
+● "Zou het interessant zijn om eens een keer te sparren over jullie uitdagingen?" 
+● "Zullen we een kort kennismakingsgesprek inplannen?" 
+● "Mag ik je toevoegen aan mijn netwerk voor als er iets interessants voorbij komt?"
 
-Vraag Structuur Tips: ✅ Altijd open vraag (begint met Wat, Hoe,
-Wanneer, Waarom) ✅ Oprechte nieuwsgierigheid (niet verkoopvraag) ✅
-Geeft hen controle over antwoord ✅ Leidt tot nieuwe informatie of
-vervolgkans
+Vraag Structuur Tips: 
+✅ Altijd open vraag (begint met Wat, Hoe, Wanneer, Waarom) 
+✅ Oprechte nieuwsgierigheid (niet verkoopvraag) 
+✅ Geeft hen controle over antwoord 
+✅ Leidt tot nieuwe informatie of vervolgkans
 
-Wat NIET te doen: ❌ Gesloten vragen ("Wil je dat ik...?") - dit geeft
-makkelijk NEE ❌ Manipulatieve vragen ("Je wilt toch wel...?") ❌
-Meerdere vragen tegelijk (verwarrend) ❌ Vragen die alleen jou helpen,
-niet relevant voor hen
+Wat NIET te doen: 
+❌ Gesloten vragen ("Wil je dat ik...?") - dit geeft makkelijk NEE 
+❌ Manipulatieve vragen ("Je wilt toch wel...?") 
+❌ Meerdere vragen tegelijk (verwarrend) 
+❌ Vragen die alleen jou helpen, niet relevant voor hen
 
 **Complete ASQ Voorbeeld Scripts:**
 
