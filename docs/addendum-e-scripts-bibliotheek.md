@@ -61,7 +61,8 @@ gesprek om te kijken of we interessant voor elkaar kunnen zijn?"
 hebben **Doel:** Positioneren als aanvulling, niet vervanging. Voor
 complete ASQ-methode, zie Scripts E43-E45.
 
-"Dat begrijp ik helemaal - goede professionals werken meestal met
+"Dat begrijp ik helemaal
+- goede professionals werken meestal met
 meerdere bureaus. Wij hebben een andere aanpak: we focussen alleen op HR
 en HRIT, waardoor we echt specialistische kennis hebben. Ook werken we
 niet exclusief, dus je behoudt alle flexibiliteit. Wat is je ervaring
@@ -73,7 +74,8 @@ geweest met andere bureaus?"
 huidige situatie **Doel:** Toekomst-focus en netwerk opbouw. Voor
 complete ASQ-methode, zie Scripts E43-E45.
 
-"Perfect - dat betekent dat je waarschijnlijk een goede kandidaat bent!
+"Perfect
+- dat betekent dat je waarschijnlijk een goede kandidaat bent!
 De beste kansen komen vaak op momenten dat je niet actief zoekt. Zou je
 open staan om elkaar te leren kennen voor als er iets unieks voorbij
 komt? Ik beloof je geen spam, alleen relevante kansen."
@@ -84,12 +86,14 @@ komt? Ik beloof je geen spam, alleen relevante kansen."
 **Doel:** Respecteren en herplannen. Voor complete ASQ-methode, zie
 Scripts E43-E45.
 
-"Dat snap ik volledig - je had mijn belletje ook niet verwacht (en bent
+"Dat snap ik volledig
+- je had mijn belletje ook niet verwacht (en bent
 druk). Wanneer zou het wel uitkomen? Dan bel ik je op een beter moment
 terug."
 
 *\[Alternatief indien urgent:\]* "Ik snap het. Het zou echt maar 5
-minuten zijn, ik heb mogelijk een interessante opdracht, - zou je die tijd nu hebben? Anders plan ik iets in wanneer het jou beter uitkomt."
+minuten zijn, ik heb mogelijk een interessante opdracht,
+- zou je die tijd nu hebben? Anders plan ik iets in wanneer het jou beter uitkomt."
 
 ## **SPIN Vraag Scripts**
 
@@ -100,7 +104,8 @@ minuten zijn, ik heb mogelijk een interessante opdracht, - zou je die tijd nu he
 
 **Voor klanten:**
 
-- "Hoe organiseren jullie nu \[specifiek gebied - bijv. recruitment/HRIT
+- "Hoe organiseren jullie nu \[specifiek gebied
+- bijv. recruitment/HRIT
   projecten\]?"
 
 - "Wie doet dit momenteel in jullie organisatie?"
@@ -186,7 +191,8 @@ minuten zijn, ik heb mogelijk een interessante opdracht, - zou je die tijd nu he
 
 ## **Acquisitie & Business Development Scripts**
 
-### Script E11: Werkwijze Uitleg Klant - Volledig
+### Script E11: Werkwijze Uitleg Klant
+- Volledig
 
 **Wanneer te gebruiken:** Bij start nieuwe klantrelatie of vacature
 **Doel:** Verwachtingen stellen en commitment krijgen
@@ -195,7 +201,9 @@ minuten zijn, ik heb mogelijk een interessante opdracht, - zou je die tijd nu he
 geen tijd verliezen én uiteindelijk de juiste / beste kandidaat kunnen inhuren.
 
 **Mijn aanpak:** Ik maak de komende twee dagen ruimte in mijn agenda
-vrij om actief op zoek te gaan - binnen én buiten mijn netwerk - naar de
+vrij om actief op zoek te gaan
+- binnen én buiten mijn netwerk
+- naar de
 juiste match. Dat betekent: gericht sourcen, gesprekken voeren, en
 alleen kandidaten voorstellen waarvan ik echt geloof dat ze passen.
 
@@ -213,13 +221,15 @@ voorgestelde cv's te bespreken. Eerder feedback mag altijd natuurlijk.
 
 **Mijn investering:** Ik werk no cure, no pay. Dus het hele proces tot
 aan de plaatsing investeer ik mijn tijd en energie, zonder garantie op
-resultaat. Ik doe dat graag - mits we het proces strak en efficiënt
+resultaat. Ik doe dat graag
+- mits we het proces strak en efficiënt
 houden, samen. Zo besparen we tijd, voorkomen we onnodige gesprekken en
 zorgen we ervoor dat jullie voorkeurskandidaat ook echt kan starten.
 
 **Commitment vraag:** Kunnen we dit afspreken?"
 
-### Script E12: Werkwijze Uitleg Klant - Kort
+### Script E12: Werkwijze Uitleg Klant
+- Kort
 
 **Wanneer te gebruiken:** Bij terugkerende klanten of snelle refresh
 **Doel:** Korte herinnering aan proces
@@ -229,19 +239,22 @@ maximaal 1 tot 3 sterke kandidaten voor. Kunnen we alvast 2 tijdslots
 voor interviews reserveren en een feedbackmoment plannen voor
 \[specifieke dag/tijd\]?"
 
-### Script E13: Werkwijze Uitleg Klant - Budget Emphasis
+### Script E13: Werkwijze Uitleg Klant
+- Budget Emphasis
 
 **Wanneer te gebruiken:** Bij klanten die twijfelen over
 kosten/investering **Doel:** No cure no pay benadrukken
 
 "Belangrijk om te weten: jullie betalen alleen bij succesvolle
 inhuur. Alle tijd die ik investeer in sourcing, screening, en
-begeleiding tot aan de start - dat doen we zonder garantie op resultaat.
+begeleiding tot aan de start
+- dat doen we zonder garantie op resultaat.
 Ik neem dat risico graag, omdat ik geloof in mijn aanpak. Wat ik vraag
 is dat we het proces samen efficiënt houden, zodat we snel tot resultaat
 komen. Deal?"
 
-### Script E14: Werkwijze Uitleg Kandidaat - Volledig
+### Script E14: Werkwijze Uitleg Kandidaat
+- Volledig
 
 **Wanneer te gebruiken:** Bij eerste contact/prescreen met kandidaat
 **Doel:** Proces uitleggen en verwachtingen scheppen
@@ -251,48 +264,61 @@ Belsberg werken:
 
 **Ons proces:**
 
-1.  **Kennismaking** (dit gesprek) - We leren elkaar kennen en ik krijg
+1.  **Kennismaking** (dit gesprek)
+- We leren elkaar kennen en ik krijg
     een goed beeld van jouw achtergrond en wensen
 
-2.  **Matching** - Als ik een passende opdracht heb, bel ik je direct
+2.  **Matching**
+- Als ik een passende opdracht heb, bel ik je direct
     voor een eerste check: past het, ben je beschikbaar?
 
-3.  **Screening** - Bij wederzijdse interesse plannen we een
+3.  **Screening**
+- Bij wederzijdse interesse plannen we een
     uitgebreider gesprek waarin we alles doorlopen en ik je optimaal
     voorbereid
 
-4.  **Presentatie** - Ik stel je voor aan de klant met een sterke
+4.  **Presentatie**
+- Ik stel je voor aan de klant met een sterke
     aanbeveling
 
-5.  **Interview** - Ik help je met voorbereiding en geef tips
+5.  **Interview**
+- Ik help je met voorbereiding en geef tips
 
-6.  **Follow-up** - Na het interview bel ik je voor jouw feedback, en ik
+6.  **Follow-up**
+- Na het interview bel ik je voor jouw feedback, en ik
     haal feedback op bij de klant. Je hoort altijd binnen 24 uur van me
     waar je aan toe bent
 
 **Wat je van ons kunt verwachten:**
 
-- Transparante communicatie over alles - je weet altijd waar je aan toe
+- Transparante communicatie over alles
+- je weet altijd waar je aan toe
   bent
 
-- Geen spam - ik benader je alleen met opdrachten die echt relevant zijn
+- Geen spam
+- ik benader je alleen met opdrachten die echt relevant zijn
   voor jou
 
-- Eerlijke feedback na gesprekken - zowel positief als verbeterpunten
+- Eerlijke feedback na gesprekken
+- zowel positief als verbeterpunten
 
-- Hulp bij onderhandelingen - ik sta ook aan jouw kant bij het afstemmen
+- Hulp bij onderhandelingen
+- ik sta ook aan jouw kant bij het afstemmen
   van voorwaarden
 
 **Wat ik van jou verwacht:**
 
-- Eerlijkheid over andere processen - als je bij meerdere bureaus loopt
+- Eerlijkheid over andere processen
+- als je bij meerdere bureaus loopt
   of andere opties hebt, laat het me weten. Dan kan ik daar rekening mee
   houden
 
-- Tijdige feedback na gesprekken - ik bel je meestal binnen 2 uur na je
+- Tijdige feedback na gesprekken
+- ik bel je meestal binnen 2 uur na je
   interview, en hoop dan ook jouw ervaring te horen
 
-- Openheid over wensen en zorgen - vertel me wat belangrijk voor je is,
+- Openheid over wensen en zorgen
+- vertel me wat belangrijk voor je is,
   dan kan ik daar rekening mee houden
 
 - Voor een voorbeeld en inspiratie over hoe je dit goed over kunt
@@ -301,7 +327,8 @@ Belsberg werken:
 
 Vragen over hoe we werken?"
 
-### Script E15: Werkwijze Uitleg Kandidaat - Kort
+### Script E15: Werkwijze Uitleg Kandidaat
+- Kort
 
 **Wanneer te gebruiken:** Bij terugkerende kandidaten **Doel:** Snelle
 refresh van proces voor specifieke opdracht
@@ -312,7 +339,8 @@ aan de klant. Na het interview hoor je binnen 2 uur van me. Helder?"
 
 ## **Lead Chase Scripts**
 
-### Script E16: Lead Verzameling - Ideaal Project
+### Script E16: Lead Verzameling
+- Ideaal Project
 
 **Wanneer te gebruiken:** Tijdens gesprek met freelancer **Doel:**
 Natuurlijk leads verzamelen
@@ -322,7 +350,8 @@ Natuurlijk leads verzamelen
 *\[Opvolging:\]* "Zijn er bedrijven die daar bij aansluiten? Noem eens
 een paar namen?"
 
-### Script E17: Lead Verzameling - Interessante Organisaties
+### Script E17: Lead Verzameling
+- Interessante Organisaties
 
 **Wanneer te gebruiken:** Tijdens gesprek met freelancer **Doel:**
 Concrete bedrijfsnamen krijgen
@@ -333,7 +362,8 @@ worden?"
 *\[Opvolging:\]* "Noem eens wat namen? Dan begrijp ik goed wat je zoekt
 en kan ik je gerichter helpen."
 
-### Script E18: Lead Verzameling - Referrals
+### Script E18: Lead Verzameling
+- Referrals
 
 **Wanneer te gebruiken:** Einde gesprek met freelancer **Doel:** Netwerk
 uitbreiden via doorverwijzingen
@@ -343,7 +373,8 @@ uitbreiden via doorverwijzingen
 *\[Opvolging:\]* "Zou je me kunnen voorstellen? Dan kan ik ze dezelfde
 service bieden als jou."
 
-### Script E19: Lead Verzameling - Exclusie
+### Script E19: Lead Verzameling
+- Exclusie
 
 **Wanneer te gebruiken:** Tijdens gesprek met freelancer **Doel:**
 Tijdbesparing door exclusies te identificeren
@@ -353,7 +384,8 @@ Tijdbesparing door exclusies te identificeren
 *\[Opvolging:\]* "Omdat je die rol zelf afgewezen hebt of nog in proces
 bent? Wil mijn tijd voor jou goed en gericht besteden."
 
-### Script E20: Lead Verzameling - Negatieve Ervaringen
+### Script E20: Lead Verzameling
+- Negatieve Ervaringen
 
 **Wanneer te gebruiken:** Tijdens gesprek met freelancer **Doel:** Leren
 van negatieve ervaringen en hidden leads
@@ -373,7 +405,8 @@ mogelijk ondersteuning zoeken op \[gebied\]. Ik heb een interessante
 kandidaat die zou kunnen passen. Bel me gerust terug op \[nummer\], dan
 kunnen we bespreken of dit relevant is."
 
-### Script E22: Email Lead Chase (in Template D - email sectie)
+### Script E22: Email Lead Chase (in Template D
+- email sectie)
 
 *Zie Addendum D voor volledige email templates*
 
@@ -387,7 +420,8 @@ mogelijk interessant is voor jullie team. Ik zou graag een connectie met
 je maken en dit verder met je bespreken. Wanneer schikt het om hierover
 te bellen?"
 
-### Script E24: Lead Chase Gesprek - Volledig
+### Script E24: Lead Chase Gesprek
+- Volledig
 
 **Wanneer te gebruiken:** Bij telefonisch contact met lead **Doel:**
 Kwalificeren en next steps bepalen
@@ -416,7 +450,8 @@ kan begrijpen? Dan kan ik direct kijken of ik geschikte kandidaten heb."
 
 *\[OF bij minder tijd:\]* "Kunnen we een korte intake inplannen waarin ik de rol volledig begrijp? Dan kan ik direct kijken of ik geschikte kandidaten heb."
 
-### Script E25: Bezwaar Lead Chase - "Geen budget"
+### Script E25: Bezwaar Lead Chase
+- "Geen budget"
 
 **Wanneer te gebruiken:** Lead geeft aan geen budget te hebben **Doel:**
 Toekomstige opportunities identificeren
@@ -424,17 +459,20 @@ Toekomstige opportunities identificeren
 "Helder. Wanneer heroverwegen jullie dit soort budgetten normaal
 gesproken opnieuw? Dan kan ik op dat moment contact opnemen."
 
-### Script E26: Bezwaar Lead Chase - "We werken al met partners"
+### Script E26: Bezwaar Lead Chase
+- "We werken al met partners"
 
 **Wanneer te gebruiken:** Lead heeft al andere bureaus **Doel:**
 Positioneren als back-up
 
 "Goede partnerships zijn waardevol. Wij werken ook vaak als aanvulling
 voor die momenten wanneer jullie vaste partners niet beschikbaar zijn of
-voor specifieke niche-expertise - wat vind je ervan om ons als back-up
+voor specifieke niche-expertise
+- wat vind je ervan om ons als back-up
 te zien?"
 
-### Script E27: Bezwaar Lead Chase - "We doen dit zelf"
+### Script E27: Bezwaar Lead Chase
+- "We doen dit zelf"
 
 **Wanneer te gebruiken:** Lead geeft aan intern te sourcen **Doel:**
 Niche positionering en back-up optie
@@ -443,16 +481,19 @@ Niche positionering en back-up optie
 jullie back-up als de interne aanpak niet snel genoeg resultaat
 oplevert? Daar kunnen wij dan inspringen."
 
-### Script E28: Feedback naar Referral - Succes
+### Script E28: Feedback naar Referral
+- Succes
 
 **Wanneer te gebruiken:** Lead heeft geresulteerd in intake/opdracht
 **Doel:** Waardering tonen en relatie versterken
 
 "Hi \[freelancer\], update over \[bedrijf\]: Ik ga volgende week een
-intake doen! Bedankt voor de tip - hopelijk kan ik binnenkort wat voor
+intake doen! Bedankt voor de tip
+- hopelijk kan ik binnenkort wat voor
 je terugdoen."
 
-### Script E29: Feedback naar Referral - Geen succes
+### Script E29: Feedback naar Referral
+- Geen succes
 
 **Wanneer te gebruiken:** Lead heeft niet tot business geleid **Doel:**
 Toch waardering tonen
@@ -462,7 +503,8 @@ moment, maar contact gelegd voor de toekomst. Thanks voor de tip!"
 
 ## **Sourcing Scripts**
 
-### Script E30: Sourcing Call - Positieve Reactie
+### Script E30: Sourcing Call
+- Positieve Reactie
 
 **Wanneer te gebruiken:** Tijdens sourcing, kandidaat toont interesse
 **Doel:** Snel kwalificeren voor sendout
@@ -487,7 +529,8 @@ met \[critical skill\]?"
 
 *\[Afsluiting:\]* "Ik ga je voorstellen. Kun je je CV binnen 2u doorsturen? Dan kan ik je spoedig, hopelijk morgen al, laten weten of de klant interesse heeft."
 
-### Script E31: Sourcing Call - Negatieve Reactie
+### Script E31: Sourcing Call
+- Negatieve Reactie
 
 **Wanneer te gebruiken:** Kandidaat niet beschikbaar of geïnteresseerd
 **Doel:** Maximaliseren van gesprek voor informatie
@@ -506,7 +549,8 @@ zoektocht!"
 
 ## **Interview Prep Scripts**
 
-### Script E32: Coaching - Spiegelingstechniek
+### Script E32: Coaching
+- Spiegelingstechniek
 
 **Wanneer te gebruiken:** Kandidaat heeft weinig interview ervaring
 **Doel:** Adaptief gedrag leren
@@ -515,7 +559,8 @@ zoektocht!"
 communicatiestijl over. Als hij directe antwoorden geeft, wees ook
 direct. Als hij meer context zoekt, geef die ruimte." 
 
-### Script E33: Coaching - Eigenaarschap
+### Script E33: Coaching
+- Eigenaarschap
 
 **Wanneer te gebruiken:** Kandidaat is te passief **Doel:** Proactieve
 houding stimuleren
@@ -525,17 +570,20 @@ meebeweegt in het gesprek, maar weet zelf ook wat jij eruit wil halen.
 Bereid 2-3 vragen voor die voor jou belangrijk zijn. Jij interviewt hen
 net zo goed als zij jou."
 
-### Script E34: Coaching - Memorabel Positioning
+### Script E34: Coaching
+- Memorabel Positioning
 
 **Wanneer te gebruiken:** Kandidaat moet zich onderscheiden van anderen
 **Doel:** Scherpe persoonlijke positionering
 
 "Heb voor jezelf helder: welke 2-3 punten moeten ze absoluut onthouden
-over jou? Denk aan de gunfactor - bij gelijke kandidaten kiest een
+over jou? Denk aan de gunfactor
+- bij gelijke kandidaten kiest een
 manager voor degene met wie hij/zij de beste klik had. Wat wil je dat ze
 over je zeggen na het gesprek?"
 
-### Script E35: Coaching - STAR Voorbeelden
+### Script E35: Coaching
+- STAR Voorbeelden
 
 **Wanneer te gebruiken:** Kandidaat moet concrete voorbeelden geven
 **Doel:** Gestructureerde verhaal techniek
@@ -550,32 +598,39 @@ vorige opdracht bij \[bedrijf\] heb ik iets vergelijkbaars aangepakt:
 
 - **Actie:** \[wat ik gedaan heb\]
 
-- **Resultaat:** \[concreet resultaat - cijfers indien mogelijk\]
+- **Resultaat:** \[concreet resultaat
+- cijfers indien mogelijk\]
 
 Bij jullie zou ik \[verwachte aanpak\] gebruiken.'
 
 Bereid 3 STAR-voorbeelden voor die passen bij deze rol."
 
-### Script E36: Coaching - Gunfactor Principes
+### Script E36: Coaching
+- Gunfactor Principes
 
 **Wanneer te gebruiken:** Voor elk interview **Doel:** Menselijke
 connectie versterken
 
 "Mensen kopen van mensen. Zorg dat je:
 
-1.  **Oprechte interesse** toont in hun business en uitdagingen - stel
+1.  **Oprechte interesse** toont in hun business en uitdagingen
+- stel
     nieuwsgierige vragen
 
-2.  **Positieve energie** uitstraalt - ook via telefoon/video is dit
+2.  **Positieve energie** uitstraalt
+- ook via telefoon/video is dit
     hoorbaar in je stem
 
-3.  **Hun naam gebruikt** en details onthoudt die ze delen - dat voelt
+3.  **Hun naam gebruikt** en details onthoudt die ze delen
+- dat voelt
     persoonlijk
 
-4.  **Doorvraagt** op wat zij belangrijk vinden - laat ze praten over
+4.  **Doorvraagt** op wat zij belangrijk vinden
+- laat ze praten over
     hun passie
 
-5.  **Complimenten geeft** waar oprecht en relevant - waardeer hun
+5.  **Complimenten geeft** waar oprecht en relevant
+- waardeer hun
     expertise
 
 Het gaat niet om slijmen, maar om echte menselijke connectie."
@@ -619,7 +674,8 @@ volgende week hoe het loopt."
 
 ## **Relatiebeheer Scripts**
 
-### Script E39: Referral Request - Na Succesvolle Plaatsing (Kandidaat)
+### Script E39: Referral Request
+- Na Succesvolle Plaatsing (Kandidaat)
 
 **Wanneer te gebruiken:** Direct na succesvolle plaatsing kandidaat
 **Doel:** Warm moment benutten voor referrals
@@ -628,7 +684,8 @@ volgende week hoe het loopt."
 collega's die ook interesse zouden hebben in interessante freelance
 opdrachten? Ik zou ze graag willen leren kennen."
 
-### Script E40: Referral Request - Tijdens Carrière Gesprek
+### Script E40: Referral Request
+- Tijdens Carrière Gesprek
 
 **Wanneer te gebruiken:** Tijdens regulier touchpoint met kandidaat
 **Doel:** Natuurlijk referrals verzamelen
@@ -637,7 +694,8 @@ opdrachten? Ik zou ze graag willen leren kennen."
 kennen? Ik help graag meer professionals zoals jij aan goede
 opdrachten."
 
-### Script E41: Referral Request - Klant Na Succes
+### Script E41: Referral Request
+- Klant Na Succes
 
 **Wanneer te gebruiken:** Na succesvolle plaatsing bij klant **Doel:**
 Uitbreiding naar andere afdelingen/bedrijven
@@ -647,7 +705,8 @@ toevallig andere organisaties in \[sector\] die ook worstelen met
 \[vergelijkbare uitdaging\]? We zouden ze graag willen helpen met onze
 ervaring."
 
-### Script E42: Referral Request - Algemeen Touchpoint
+### Script E42: Referral Request
+- Algemeen Touchpoint
 
 **Wanneer te gebruiken:** Tijdens regulier contact met A-relatie
 **Doel:** Continue referral generatie
@@ -656,7 +715,8 @@ ervaring."
 
 **Gesprekstechnieken Scripts**
 
-### Script E43: ASQ - Acknowledge Template
+### Script E43: ASQ
+- Acknowledge Template
 
 **Wanneer te gebruiken:** Bij elk bezwaar als eerste reactie Doel:
 Valideren en weerstand wegnemen
@@ -667,29 +727,36 @@ Basis Formules:
 dat nu niet jullie prioriteit is."
 - "Dat is logisch bij een bedrijf van
 jullie omvang."
-- "Herkenbaar - veel klanten beginnen daar ook mee."
+- "Herkenbaar
+- veel klanten beginnen daar ook mee."
 - "Goed, fijn dat je dat zo duidelijk aangeeft."
-- "Helder - goed dat
+- "Helder
+- goed dat
 je daar transparant over bent."
 
 Geavanceerde Acknowledge Patronen:
 
 Voor Kandidaten:
-- "Snap ik - je moet alle opties afwegen."
+- "Snap ik
+- je moet alle opties afwegen."
 - "Logisch
 dat je niet meteen ja zegt."
 - "Goed dat je kritisch bent, dat hoort
 ook."
 
 Voor Bezwaren over Tarief:
-- "Begrijpelijk - budget speelt altijd een
+- "Begrijpelijk
+- budget speelt altijd een
 rol."
-- "Hoor ik vaker - tarieven zijn belangrijk om goed af te
+- "Hoor ik vaker
+- tarieven zijn belangrijk om goed af te
 stemmen."
 
 Voor Bezwaren over Tijd:
-- "Helemaal logisch - timing is cruciaal."
-- "Snap ik - je agenda zit vol, dat herken ik."
+- "Helemaal logisch
+- timing is cruciaal."
+- "Snap ik
+- je agenda zit vol, dat herken ik."
 
 Wat NIET te doen:
 - Direct tegenspreken: "Maar dat is niet waar..."
@@ -699,7 +766,8 @@ echte erkenning
 - Alleen "ja maar" gebruiken (voelt niet als echte
 acknowledge)
 
-### Script E44: ASQ - Statement Template
+### Script E44: ASQ
+- Statement Template
 
 **Wanneer te gebruiken:** Direct na Acknowledge Doel: Unieke waarde
 tonen in één krachtige zin
@@ -709,7 +777,8 @@ Belsberg Core Statements (gebruik altijd):
 freelancers binnen jullie domein."
 - "Wij leveren binnen 48 uur passende
 profielen."
-- "Wij focussen 100% op HR en HRIT - dat is ons
+- "Wij focussen 100% op HR en HRIT
+- dat is ons
 specialisme."
 - "We hebben 200+ actieve freelance HR professionals in
 ons netwerk."
@@ -717,7 +786,8 @@ ons netwerk."
 Situatie-Specifieke Statements:
 
 Bij "Geen budget":
-- "Wij werken no cure, no pay - je investeert alleen
+- "Wij werken no cure, no pay
+- je investeert alleen
 bij een succesvolle inhuur." 
 
 Bij "Werk al met andere bureaus":
@@ -729,18 +799,21 @@ als back-up voor als jullie reguliere kanalen niet leveren."
 klanten staan we nu op hun PSL omdat we ooit begonnen als backup / als test."
 
 Bij "Te druk":
-- "Dat is precies waarom wij bestaan - wij nemen het
+- "Dat is precies waarom wij bestaan
+- wij nemen het
 zoekwerk uit handen, en hebben een netwerk paraat."
 - "Ons proces bespaart jullie gemiddeld 15 uur per vacature."
 
 Bij "Doen het zelf":
-- "Dat is prima - wij werken vaak als fall-back
+- "Dat is prima
+- wij werken vaak als fall-back
 voor als interne sourcing niet snel genoeg gaat."
 - "Veel organisaties
 combineren eigen sourcing met onze gespecialiseerde aanpak."
 
 Bij Kandidaat "Ben tevreden":
-- "Perfect - de beste kansen komen vaak op
+- "Perfect
+- de beste kansen komen vaak op
 momenten dat je niet actief zoekt."
 - "Juist goede professionals houden
 we graag in ons netwerk voor unieke kansen."
@@ -760,7 +833,8 @@ onderbouwing
 - Alleen over jezelf praten zonder relevantie voor hen
 - Meerdere statements achter elkaar (kies ÉÉN krachtige)
 
-### Script E45: ASQ - Question Template 
+### Script E45: ASQ
+- Question Template 
 
 **Wanneer te gebruiken:** Direct na Statement Doel: Gesprek verder
 trekken en controle behouden
@@ -801,32 +875,38 @@ Vraag Structuur Tips:
 - Leidt tot nieuwe informatie of vervolgkans
 
 Wat NIET te doen:
-- Gesloten vragen ("Wil je dat ik...?") - dit geeft makkelijk NEE 
+- Gesloten vragen ("Wil je dat ik...?")
+- dit geeft makkelijk NEE 
 - Manipulatieve vragen ("Je wilt toch wel...?") 
 - Meerdere vragen tegelijk (verwarrend) 
 - Vragen die alleen jou helpen, niet relevant voor hen
 
 **Complete ASQ Voorbeeld Scripts:**
 
-Bezwaar: "We werken al met vaste partners" A: "Snap ik helemaal - goede
+Bezwaar: "We werken al met vaste partners" A: "Snap ik helemaal
+- goede
 partnerships zijn waardevol." S: "Wij werken vaak naast vaste bureaus
 voor specifieke niche-expertise in HR/HRIT." Q: "Wat kan ik doen om als
 benchmark naast jullie huidige partners te lopen bij de volgende
 aanvraag?"
 
-Bezwaar: "Geen tijd om dit te bespreken" A: "Begrijpelijk - je had mijn
+Bezwaar: "Geen tijd om dit te bespreken" A: "Begrijpelijk
+- je had mijn
 belletje ook niet verwacht." S: "Onze aanpak bespaart gemiddeld 15 uur
 zoekwerk per vacature." Q: "Wanneer zou het beter passen om 10 minuten
 te bellen?"
 
-Bezwaar: "Budget is lastig" A: "Hoor ik vaker - budget speelt altijd een
-rol." S: "We werken no cure, no pay - je investeert alleen bij een
+Bezwaar: "Budget is lastig" A: "Hoor ik vaker
+- budget speelt altijd een
+rol." S: "We werken no cure, no pay
+- je investeert alleen bij een
 succesvolle plaatsing." Q: "Wanneer wordt jullie budget voor externe
 hiring normaal gesproken opnieuw bekeken?"
 
 **Controle Scripts**
 
-### Script E46: Controle Houden - Tijd-besparende Insteek
+### Script E46: Controle Houden
+- Tijd-besparende Insteek
 
 **Wanneer te gebruiken:** Als iemand zegt "stuur maar een mailtje" of
 "ik stuur jou wel wat" Doel: Initiatief behouden door bellen te
@@ -834,19 +914,22 @@ positioneren als service
 
 Situatie: Klant/kandidaat zegt "Stuur maar een mailtje"
 
--
-- BESTE Reacties (gebruik deze volgorde):
+- - BESTE Reacties (gebruik deze volgorde):
 
-Optie 1 - Direct Contact Vragen: "Laat ik je tijd besparen — ik bel
+Optie 1
+- Direct Contact Vragen: "Laat ik je tijd besparen — ik bel
 even, met wie kan ik het beste contact opnemen?"
 
-Optie 2 - Efficiency Angle: "Wie kan ik hierover het beste bellen? Dat
+Optie 2
+- Efficiency Angle: "Wie kan ik hierover het beste bellen? Dat
 scheelt jou weer tijd om m'n mail door te sturen."
 
-Optie 3 - Service Positionering: "Snap ik, maar ik kan je beter even
+Optie 3
+- Service Positionering: "Snap ik, maar ik kan je beter even
 bellen — dan hoef jij de mail niet door te lezen en door te zetten."
 
-Optie 4 - Combinatie Aanpak: "Ik stuur het graag even kort per mail,
+Optie 4
+- Combinatie Aanpak: "Ik stuur het graag even kort per mail,
 maar laat ik daarna even bellen, dan weet je direct of het relevant is."
 
 Waarom deze werken:
@@ -856,7 +939,8 @@ Waarom deze werken:
 - Houdt
 initiatief bij jou
 
-### Script E47: Controle Houden - "Stuur maar een mail" Reacties 
+### Script E47: Controle Houden
+- "Stuur maar een mail" Reacties 
 
 **Wanneer te gebruiken:** Verfijnde responses afhankelijk van situatie
 Doel: Flexibele aanpak behouden afhankelijk van gesprekspartner
@@ -888,7 +972,8 @@ Reden Geven (waarom bellen beter is): "Mail kan, maar ik merk dat 5
 minuten bellen vaak helderder is dan 10 mails heen en weer. Wat denk
 je?" → Logische reden = moeilijker af te wijzen
 
-### Script E48: Controle Houden - "Ik stuur jou wel wat" Reacties 
+### Script E48: Controle Houden
+- "Ik stuur jou wel wat" Reacties 
 
 **Wanneer te gebruiken:** Als de ander het initiatief wil nemen Doel:
 Beleefd maar assertief het initiatief terughalen
@@ -915,7 +1000,8 @@ vandaag voorstellen en heb je mogelijk al volgende week een
 gesprek."
 
 Met Reminder Commitment: "Perfect. Als ik het morgenochtend nog niet
-heb, bel ik je even als reminder - oké?"
+heb, bel ik je even als reminder
+- oké?"
 
 Met Concrete Deadline: "Heel goed! Heb je het voor \[specifieke tijd\]
 naar me toe? Dan zorg ik dat je als eerste wordt voorgesteld."
@@ -971,7 +1057,8 @@ vertrouwen voorstellen. Ik houd je op de hoogte!"
 
 ### Script E50: Interview Planning Risking
 
-*Opening:* "Goed nieuws - de klant wil je graag uitnodigen! Voordat we
+*Opening:* "Goed nieuws
+- de klant wil je graag uitnodigen! Voordat we
 een datum prikken, wil ik even checken of de timing goed is."
 
 1.  "Heb je recent nog interviews gehad? Hoe verliepen die?"
@@ -996,7 +1083,8 @@ doorlopen wat we al hebben afgesproken."
 
 *Core Pre-Close:* "Stel dat het gesprek goed verloopt, en je kunt
 starten bij \[Klant\], aan \[tarief\], voor \[uren\] per week, een
-contract van \[duur\] - precies zoals we besproken hebben. Kan ik op dat
+contract van \[duur\]
+- precies zoals we besproken hebben. Kan ik op dat
 moment namens jou 'ja' zeggen? Ik vraag dit puur om te weten hoe je er
 nu over denkt."
 
