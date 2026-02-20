@@ -544,7 +544,6 @@ over je zeggen na het gesprek?"
 
 'Wat me opvalt aan jullie uitdaging is \[specifiek punt\]. In mijn
 vorige opdracht bij \[bedrijf\] heb ik iets vergelijkbaars aangepakt:
-
 - **Situatie:** \[context\]
 
 - **Taak:** \[wat moest ik bereiken\]
@@ -590,7 +589,6 @@ praktische check en enthousiasme behouden
 
 Hoi \[naam\], nog \[X\] dagen! Even de belangrijkste punten voor je
 eerste dag:
-
 - Dag/tijd: \[details\]
 
 - Locatie: \[adres\]
@@ -664,44 +662,41 @@ ervaring."
 Valideren en weerstand wegnemen
 
 Basis Formules:
-● "Snap ik helemaal, hoor ik vaker."
-● "Begrijpelijk dat
+- "Snap ik helemaal, hoor ik vaker."
+- "Begrijpelijk dat
 dat nu niet jullie prioriteit is."
-● "Dat is logisch bij een bedrijf van
+- "Dat is logisch bij een bedrijf van
 jullie omvang."
-● "Herkenbaar - veel klanten beginnen daar ook mee."
-●
-"Goed, fijn dat je dat zo duidelijk aangeeft."
-● "Helder - goed dat
+- "Herkenbaar - veel klanten beginnen daar ook mee."
+- "Goed, fijn dat je dat zo duidelijk aangeeft."
+- "Helder - goed dat
 je daar transparant over bent."
 
 Geavanceerde Acknowledge Patronen:
 
 Voor Kandidaten:
-● "Snap ik - je moet alle opties afwegen."
-● "Logisch
+- "Snap ik - je moet alle opties afwegen."
+- "Logisch
 dat je niet meteen ja zegt."
-● "Goed dat je kritisch bent, dat hoort
+- "Goed dat je kritisch bent, dat hoort
 ook."
 
 Voor Bezwaren over Tarief:
-● "Begrijpelijk - budget speelt altijd een
+- "Begrijpelijk - budget speelt altijd een
 rol."
-● "Hoor ik vaker - tarieven zijn belangrijk om goed af te
+- "Hoor ik vaker - tarieven zijn belangrijk om goed af te
 stemmen."
 
 Voor Bezwaren over Tijd:
-● "Helemaal logisch - timing is cruciaal."
-●
-"Snap ik - je agenda zit vol, dat herken ik."
+- "Helemaal logisch - timing is cruciaal."
+- "Snap ik - je agenda zit vol, dat herken ik."
 
 Wat NIET te doen:
-❌ Direct tegenspreken: "Maar dat is niet waar..."
-❌
-Minimaliseren: "Ach dat valt wel mee..."
-❌ Te snel doorpraten zonder
+- Direct tegenspreken: "Maar dat is niet waar..."
+- Minimaliseren: "Ach dat valt wel mee..."
+- Te snel doorpraten zonder
 echte erkenning
-❌ Alleen "ja maar" gebruiken (voelt niet als echte
+- Alleen "ja maar" gebruiken (voelt niet als echte
 acknowledge)
 
 ### Script E44: ASQ - Statement Template
@@ -710,58 +705,60 @@ acknowledge)
 tonen in één krachtige zin
 
 Belsberg Core Statements (gebruik altijd):
-● "Ik werk met de beste
+- "Ik werk met de beste
 freelancers binnen jullie domein."
-● "Wij leveren binnen 48 uur passende
+- "Wij leveren binnen 48 uur passende
 profielen."
-● "Wij focussen 100% op HR en HRIT - dat is ons
+- "Wij focussen 100% op HR en HRIT - dat is ons
 specialisme."
-● "We hebben 200+ actieve freelance HR professionals in
+- "We hebben 200+ actieve freelance HR professionals in
 ons netwerk."
 
 Situatie-Specifieke Statements:
 
 Bij "Geen budget":
-● "Wij werken no cure, no pay - je investeert alleen
+- "Wij werken no cure, no pay - je investeert alleen
 bij een succesvolle inhuur." 
 
 Bij "Werk al met andere bureaus":
-● "Veel klanten gebruiken ons naast
+- "Veel klanten gebruiken ons naast
 hun vaste partners voor specifieke niche-expertise."
-● "Wij werken vaak
+- "Wij werken vaak
 als back-up voor als jullie reguliere kanalen niet leveren."
-● "Bij veel
+- "Bij veel
 klanten staan we nu op hun PSL omdat we ooit begonnen als backup / als test."
 
 Bij "Te druk":
-● "Dat is precies waarom wij bestaan - wij nemen het
+- "Dat is precies waarom wij bestaan - wij nemen het
 zoekwerk uit handen, en hebben een netwerk paraat."
-● "Ons proces bespaart jullie gemiddeld 15 uur per vacature."
+- "Ons proces bespaart jullie gemiddeld 15 uur per vacature."
 
 Bij "Doen het zelf":
-● "Dat is prima - wij werken vaak als fall-back
+- "Dat is prima - wij werken vaak als fall-back
 voor als interne sourcing niet snel genoeg gaat."
-● "Veel organisaties
+- "Veel organisaties
 combineren eigen sourcing met onze gespecialiseerde aanpak."
 
 Bij Kandidaat "Ben tevreden":
-● "Perfect - de beste kansen komen vaak op
+- "Perfect - de beste kansen komen vaak op
 momenten dat je niet actief zoekt."
-● "Juist goede professionals houden
+- "Juist goede professionals houden
 we graag in ons netwerk voor unieke kansen."
 
-Statement Structuur Tips: ✅ Kort en krachtig (max 1-2 zinnen) ✅
-Concreet en meetbaar waar mogelijk (48 uur, 200+, etc.) ✅ Unieke
-differentiatie (wat anderen NIET doen) ✅ Relevant voor hun specifieke
+Statement Structuur Tips:
+- Kort en krachtig (max 1-2 zinnen)
+- Concreet en meetbaar waar mogelijk (48 uur, 200+, etc.)
+- Unieke
+differentiatie (wat anderen NIET doen)
+- Relevant voor hun specifieke
 situatie
 
 Wat NIET te doen:
-❌ Lange verkooppraatjes
-❌ Vage claims zonder
+- Lange verkooppraatjes
+- Vage claims zonder
 onderbouwing
-❌ Alleen over jezelf praten zonder relevantie voor hen
-❌
-Meerdere statements achter elkaar (kies ÉÉN krachtige)
+- Alleen over jezelf praten zonder relevantie voor hen
+- Meerdere statements achter elkaar (kies ÉÉN krachtige)
 
 ### Script E45: ASQ - Question Template 
 
@@ -770,44 +767,44 @@ trekken en controle behouden
 
 Open Vervolgvragen (gebruik deze formules):
 
-Voor Exploratie: 
-● "Wat zou er moeten veranderen om dit wél interessant
+Voor Exploratie:
+- "Wat zou er moeten veranderen om dit wél interessant
 te maken?" 
-● "Hoe pakken jullie dit soort projecten normaal aan?" 
-● "Wat zijn jullie ervaringen geweest met externe partners?" 
-● "Hoe ziet jullie ideale samenwerking eruit?"
+- "Hoe pakken jullie dit soort projecten normaal aan?" 
+- "Wat zijn jullie ervaringen geweest met externe partners?" 
+- "Hoe ziet jullie ideale samenwerking eruit?"
 
-Voor Timing: 
-● "Wanneer zou het wel relevant zijn om kennis te maken?" 
-● "Welke trigger zou ervoor zorgen dat jullie wel externe hulp overwegen?"
-● "In welke situaties schakel je normaal gesproken een bureau in?"
+Voor Timing:
+- "Wanneer zou het wel relevant zijn om kennis te maken?" 
+- "Welke trigger zou ervoor zorgen dat jullie wel externe hulp overwegen?"
+- "In welke situaties schakel je normaal gesproken een bureau in?"
 
-Voor Positionering: 
-● "Wat kan ik doen om als benchmark naast jullie vaste partners te lopen?" 
-● "Waar zou ik het verschil kunnen maken voor jullie?" 
-● "Welke toegevoegde waarde zoek je in een recruitment partner?"
+Voor Positionering:
+- "Wat kan ik doen om als benchmark naast jullie vaste partners te lopen?" 
+- "Waar zou ik het verschil kunnen maken voor jullie?" 
+- "Welke toegevoegde waarde zoek je in een recruitment partner?"
 
-Voor Informatie: 
-● "Mag ik vragen waarom het nu niet interessant lijkt?"
-● "Wat zijn de belangrijkste criteria voor jullie bij het kiezen van een bureau?" 
-● "Hoe bepalen jullie met welke bureaus jullie willen samenwerken?"
+Voor Informatie:
+- "Mag ik vragen waarom het nu niet interessant lijkt?"
+- "Wat zijn de belangrijkste criteria voor jullie bij het kiezen van een bureau?" 
+- "Hoe bepalen jullie met welke bureaus jullie willen samenwerken?"
 
-Voor Commitment (als situatie positiever wordt): 
-● "Zou het interessant zijn om eens een keer te sparren over jullie uitdagingen?" 
-● "Zullen we een kort kennismakingsgesprek inplannen?" 
-● "Mag ik je toevoegen aan mijn netwerk voor als er iets interessants voorbij komt?"
+Voor Commitment (als situatie positiever wordt):
+- "Zou het interessant zijn om eens een keer te sparren over jullie uitdagingen?" 
+- "Zullen we een kort kennismakingsgesprek inplannen?" 
+- "Mag ik je toevoegen aan mijn netwerk voor als er iets interessants voorbij komt?"
 
-Vraag Structuur Tips: 
-✅ Altijd open vraag (begint met Wat, Hoe, Wanneer, Waarom) 
-✅ Oprechte nieuwsgierigheid (niet verkoopvraag) 
-✅ Geeft hen controle over antwoord 
-✅ Leidt tot nieuwe informatie of vervolgkans
+Vraag Structuur Tips:
+- Altijd open vraag (begint met Wat, Hoe, Wanneer, Waarom) 
+- Oprechte nieuwsgierigheid (niet verkoopvraag) 
+- Geeft hen controle over antwoord 
+- Leidt tot nieuwe informatie of vervolgkans
 
-Wat NIET te doen: 
-❌ Gesloten vragen ("Wil je dat ik...?") - dit geeft makkelijk NEE 
-❌ Manipulatieve vragen ("Je wilt toch wel...?") 
-❌ Meerdere vragen tegelijk (verwarrend) 
-❌ Vragen die alleen jou helpen, niet relevant voor hen
+Wat NIET te doen:
+- Gesloten vragen ("Wil je dat ik...?") - dit geeft makkelijk NEE 
+- Manipulatieve vragen ("Je wilt toch wel...?") 
+- Meerdere vragen tegelijk (verwarrend) 
+- Vragen die alleen jou helpen, niet relevant voor hen
 
 **Complete ASQ Voorbeeld Scripts:**
 
@@ -838,7 +835,7 @@ positioneren als service
 Situatie: Klant/kandidaat zegt "Stuur maar een mailtje"
 
 -
-🥇 BESTE Reacties (gebruik deze volgorde):
+- BESTE Reacties (gebruik deze volgorde):
 
 Optie 1 - Direct Contact Vragen: "Laat ik je tijd besparen — ik bel
 even, met wie kan ik het beste contact opnemen?"
@@ -853,11 +850,10 @@ Optie 4 - Combinatie Aanpak: "Ik stuur het graag even kort per mail,
 maar laat ik daarna even bellen, dan weet je direct of het relevant is."
 
 Waarom deze werken:
-● Positioneert bellen als service (niet verkoop)
-●
-Bespaart HEN tijd en moeite
-● Toont begrip voor hun situatie
-● Houdt
+- Positioneert bellen als service (niet verkoop)
+- Bespaart HEN tijd en moeite
+- Toont begrip voor hun situatie
+- Houdt
 initiatief bij jou
 
 ### Script E47: Controle Houden - "Stuur maar een mail" Reacties 
@@ -870,7 +866,6 @@ bellen om te horen of het aansluit? Dan hoef je niet uitgebreid terug te mailen.
 
 Bij Bestaande Relaties (bekend met jouw werkwijze): "Stuur ik. Zal ik je
 dan \[specifieke dag\] om \[tijd\] bellen om het door te nemen?"
-
 
 Bij Warme Leads (momentum hoog): "Perfect! Ik stuur het nu direct. Heb
 je over een uur 5 minuten om het kort te bespreken?"
@@ -940,16 +935,16 @@ dan een realistisch alternatief? Dan kan ik daar rekening mee houden." →
 Geeft flexibiliteit maar houdt jou in control
 
 **Wat ALTIJD te doen bij "Ik stuur jou wel wat":** 
-✅ Concrete deadline vragen/geven 
-✅ Zelf follow-up moment vastleggen 
-✅ Bevestigen wat er exact gestuurd wordt 
-✅ Reden geven waarom timing belangrijk is
+- Concrete deadline vragen/geven 
+- Zelf follow-up moment vastleggen 
+- Bevestigen wat er exact gestuurd wordt 
+- Reden geven waarom timing belangrijk is
 
 **Wat NOOIT te doen:** 
-❌ Afwachten zonder follow-up plan 
-❌ Geen deadline of tijdslimiet noemen 
-❌ Te agressief pushen (relatie schaden)
-❌ Vertrouwen op "ze doen het wel" (gebeurt vaak niet)
+- Afwachten zonder follow-up plan 
+- Geen deadline of tijdslimiet noemen 
+- Te agressief pushen (relatie schaden)
+- Vertrouwen op "ze doen het wel" (gebeurt vaak niet)
 
 ## Risking Scripts
 
