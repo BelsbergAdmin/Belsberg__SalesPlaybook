@@ -1026,5 +1026,5 @@ Kun je dit ook even per email bevestigen? Dan hebben we alles
 gedocumenteerd. Gefeliciteerd!"
 
 *Bij Twijfel:* "Ik begrijp dat je nog \[andere proces/overweging\] hebt
-lopen. Laten we even kijken hoe we dit het beste kunnen aanpakken..."
+lopen. Laten we even kijken hoe we dit het beste kunnen aanpakken.."
 \[Bespreek situatie en bepaal strategie\]
