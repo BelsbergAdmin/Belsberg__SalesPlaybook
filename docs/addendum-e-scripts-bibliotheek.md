@@ -107,19 +107,14 @@ minuten zijn, ik heb mogelijk een interessante opdracht,
 - "Hoe organiseren jullie nu \[specifiek gebied
 - bijv. recruitment/HRIT
   projecten\]?"
-
 - "Wie doet dit momenteel in jullie organisatie?"
-
 - "Hoe lang duurt dit proces meestal?"
-
 - "Met welke systemen werken jullie nu?"
 
 **Voor kandidaten:**
 
 - "Hoe ziet je huidige situatie eruit?"
-
 - "Wat voor type opdrachten doe je het liefst?"
-
 - "Hoe pak je normaal gesproken je zoektocht naar opdrachten aan?"
 
 ### Script E8: Probleem Vragen
@@ -130,19 +125,14 @@ minuten zijn, ik heb mogelijk een interessante opdracht,
 **Voor klanten:**
 
 - "Wat zijn de grootste uitdagingen in dit proces?"
-
 - "Waar loopt het meestal spaak?"
-
 - "Wat frustreert jullie het meest aan de huidige situatie?"
-
 - "Welke bottlenecks ervaren jullie?"
 
 **Voor kandidaten:**
 
 - "Wat vind je lastig aan het vinden van goede opdrachten?"
-
 - "Waar loop je tegenaan in je huidige zoektocht?"
-
 - "Wat zou je willen verbeteren aan hoe je nu werkt?"
 
 ### Script E9: Implicatie Vragen
@@ -153,17 +143,13 @@ minuten zijn, ik heb mogelijk een interessante opdracht,
 **Voor klanten:**
 
 - "Wat betekent die vertraging voor jullie business?"
-
 - "Hoe raakt dit andere afdelingen?"
-
 - "Wat kost dit jullie aan tijd/geld?"
-
 - "Welke risico's zie je als dit zo blijft?"
 
 **Voor kandidaten:**
 
 - "Wat betekent het voor je als je langere tijd tussen opdrachten zit?"
-
 - "Hoe beïnvloedt dit je planning en financiële situatie?"
 
 ### Script E10: Need-Payoff Vragen
@@ -174,18 +160,14 @@ minuten zijn, ik heb mogelijk een interessante opdracht,
 **Voor klanten:**
 
 - "Wat zou het betekenen als je dit opgelost had?"
-
 - "Hoe zou de ideale situatie eruitzien?"
-
 - "Welke voordelen zou dat opleveren?"
-
 - "Wat zou dat waard zijn voor jullie organisatie?"
 
 **Voor kandidaten:**
 
 - "Hoe zou het zijn als je altijd een pipeline van goede opdrachten
   had?"
-
 - "Wat zou het voor je betekenen als je sneller aan je volgende opdracht
   begint?"
 
@@ -264,27 +246,27 @@ Belsberg werken:
 
 **Ons proces:**
 
-1.  **Kennismaking** (dit gesprek)
+1. **Kennismaking** (dit gesprek)
 - We leren elkaar kennen en ik krijg
     een goed beeld van jouw achtergrond en wensen
 
-2.  **Matching**
+2. **Matching**
 - Als ik een passende opdracht heb, bel ik je direct
     voor een eerste check: past het, ben je beschikbaar?
 
-3.  **Screening**
+3. **Screening**
 - Bij wederzijdse interesse plannen we een
     uitgebreider gesprek waarin we alles doorlopen en ik je optimaal
     voorbereid
 
-4.  **Presentatie**
+4. **Presentatie**
 - Ik stel je voor aan de klant met een sterke
     aanbeveling
 
-5.  **Interview**
+5. **Interview**
 - Ik help je met voorbereiding en geef tips
 
-6.  **Follow-up**
+6. **Follow-up**
 - Na het interview bel ik je voor jouw feedback, en ik
     haal feedback op bij de klant. Je hoort altijd binnen 24 uur van me
     waar je aan toe bent
@@ -613,23 +595,23 @@ connectie versterken
 
 "Mensen kopen van mensen. Zorg dat je:
 
-1.  **Oprechte interesse** toont in hun business en uitdagingen
+1. **Oprechte interesse** toont in hun business en uitdagingen
 - stel
     nieuwsgierige vragen
 
-2.  **Positieve energie** uitstraalt
+2. **Positieve energie** uitstraalt
 - ook via telefoon/video is dit
     hoorbaar in je stem
 
-3.  **Hun naam gebruikt** en details onthoudt die ze delen
+3. **Hun naam gebruikt** en details onthoudt die ze delen
 - dat voelt
     persoonlijk
 
-4.  **Doorvraagt** op wat zij belangrijk vinden
+4. **Doorvraagt** op wat zij belangrijk vinden
 - laat ze praten over
     hun passie
 
-5.  **Complimenten geeft** waar oprecht en relevant
+5. **Complimenten geeft** waar oprecht en relevant
 - waardeer hun
     expertise
 
@@ -843,29 +825,29 @@ Open Vervolgvragen (gebruik deze formules):
 
 Voor Exploratie:
 - "Wat zou er moeten veranderen om dit wél interessant
-te maken?" 
-- "Hoe pakken jullie dit soort projecten normaal aan?" 
-- "Wat zijn jullie ervaringen geweest met externe partners?" 
+te maken?"
+- "Hoe pakken jullie dit soort projecten normaal aan?"
+- "Wat zijn jullie ervaringen geweest met externe partners?"
 - "Hoe ziet jullie ideale samenwerking eruit?"
 
 Voor Timing:
-- "Wanneer zou het wel relevant zijn om kennis te maken?" 
+- "Wanneer zou het wel relevant zijn om kennis te maken?"
 - "Welke trigger zou ervoor zorgen dat jullie wel externe hulp overwegen?"
 - "In welke situaties schakel je normaal gesproken een bureau in?"
 
 Voor Positionering:
-- "Wat kan ik doen om als benchmark naast jullie vaste partners te lopen?" 
-- "Waar zou ik het verschil kunnen maken voor jullie?" 
+- "Wat kan ik doen om als benchmark naast jullie vaste partners te lopen?"
+- "Waar zou ik het verschil kunnen maken voor jullie?"
 - "Welke toegevoegde waarde zoek je in een recruitment partner?"
 
 Voor Informatie:
 - "Mag ik vragen waarom het nu niet interessant lijkt?"
-- "Wat zijn de belangrijkste criteria voor jullie bij het kiezen van een bureau?" 
+- "Wat zijn de belangrijkste criteria voor jullie bij het kiezen van een bureau?"
 - "Hoe bepalen jullie met welke bureaus jullie willen samenwerken?"
 
 Voor Commitment (als situatie positiever wordt):
-- "Zou het interessant zijn om eens een keer te sparren over jullie uitdagingen?" 
-- "Zullen we een kort kennismakingsgesprek inplannen?" 
+- "Zou het interessant zijn om eens een keer te sparren over jullie uitdagingen?"
+- "Zullen we een kort kennismakingsgesprek inplannen?"
 - "Mag ik je toevoegen aan mijn netwerk voor als er iets interessants voorbij komt?"
 
 Vraag Structuur Tips:
@@ -1039,17 +1021,17 @@ Geeft flexibiliteit maar houdt jou in control
 *Opening:* "Voordat ik je profiel presenteer, wil ik zeker weten dat we
 op één lijn zitten. Kan ik je een paar vragen stellen over je situatie?"
 
-1.  "Waarom wil je eigenlijk weg bij je huidige werkgever/opdracht?"
+1. "Waarom wil je eigenlijk weg bij je huidige werkgever/opdracht?"
 
-2.  "Wat is de kans dat je een verlenging krijgt? En zou je die
+2. "Wat is de kans dat je een verlenging krijgt? En zou je die
     accepteren?"
 
-3.  "Heb je momenteel nog andere sollicitatiegesprekken lopen? Zo ja,
+3. "Heb je momenteel nog andere sollicitatiegesprekken lopen? Zo ja,
     hoe ver ben je daar?"
 
-4.  "Is je cv al door andere bureaus naar bedrijven gestuurd?"
+4. "Is je cv al door andere bureaus naar bedrijven gestuurd?"
 
-5.  "Als je ergens anders ook een goed aanbod krijgt, hoe ga je dan
+5. "Als je ergens anders ook een goed aanbod krijgt, hoe ga je dan
     kiezen?"
 
 *Afsluiting:* "Dank voor je openheid. Op basis hiervan ga ik je met
@@ -1061,16 +1043,16 @@ vertrouwen voorstellen. Ik houd je op de hoogte!"
 - de klant wil je graag uitnodigen! Voordat we
 een datum prikken, wil ik even checken of de timing goed is."
 
-1.  "Heb je recent nog interviews gehad? Hoe verliepen die?"
+1. "Heb je recent nog interviews gehad? Hoe verliepen die?"
 
-2.  "Staan er nog andere gesprekken gepland? Voor wat voor rollen?"
+2. "Staan er nog andere gesprekken gepland? Voor wat voor rollen?"
 
-3.  "Als je deze rol vergelijkt met andere opties, waar staat deze dan?"
+3. "Als je deze rol vergelijkt met andere opties, waar staat deze dan?"
 
-4.  "Wat heeft op dit moment jouw voorkeur: een verlenging, deze
+4. "Wat heeft op dit moment jouw voorkeur: een verlenging, deze
     opdracht, of iets anders?"
 
-5.  "Is er iets dat je zou kunnen weerhouden om uiteindelijk bij deze
+5. "Is er iets dat je zou kunnen weerhouden om uiteindelijk bij deze
     klant te starten?"
 
 *Afsluiting:* "Top, dan gaan we het interview inplannen. Ik ga je goed
@@ -1090,11 +1072,11 @@ nu over denkt."
 
 *Follow-up:*
 
-1.  "Super! Waar moet je nog over nadenken?"
+1. "Super! Waar moet je nog over nadenken?"
 
-2.  "Wat zijn eventuele twijfels die je nog hebt?"
+2. "Wat zijn eventuele twijfels die je nog hebt?"
 
-3.  "Perfect. Wil je me direct na het gesprek even bellen? Ik spreek
+3. "Perfect. Wil je me direct na het gesprek even bellen? Ik spreek
     liever eerst met jou voordat de manager mij belt."
 
 *Afsluiting:* "Geweldig. Ik heb er vertrouwen in. Succes morgen!"
@@ -1103,17 +1085,17 @@ nu over denkt."
 
 *Opening:* "Hé! Hoe ging het? Vertel me alles!"
 
-1.  "Wat was je algemene gevoel na het gesprek?"
+1. "Wat was je algemene gevoel na het gesprek?"
 
-2.  "Op schaal van 1-10, hoe aantrekkelijk vind je deze opdracht nu je
+2. "Op schaal van 1-10, hoe aantrekkelijk vind je deze opdracht nu je
     meer weet?"
 
-3.  "Wat sprak je het meest aan? Wat gaf eventueel twijfels?"
+3. "Wat sprak je het meest aan? Wat gaf eventueel twijfels?"
 
-4.  "Als ze je nu een aanbod doen onder de voorwaarden die we bespraken,
+4. "Als ze je nu een aanbod doen onder de voorwaarden die we bespraken,
     wat zeg je dan?"
 
-5.  "Is er verder nog iets veranderd? Andere interviews,
+5. "Is er verder nog iets veranderd? Andere interviews,
     verlengingsaanbod, persoonlijke situatie?"
 
 *Afsluiting (bij positieve feedback):* "Fantastisch! Ik ga de klant
